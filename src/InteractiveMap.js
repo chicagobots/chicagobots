@@ -811,7 +811,7 @@ export default function InteractiveMap() {
                       <Search size={16} /> Buscar en Google
                     </a>
                     <a
-                      href="https://github.com/chicagobots/chicagobots"
+                      href="https://github.com/chicagobots/chicagobots/blob/main/Fuentes.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="theme-btn"
