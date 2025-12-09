@@ -1,0 +1,7171 @@
+[
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n0",
+      "label": "Cecilia Cifuentes",
+      "type": "maltego.Person",
+      "image": "Screenshot_332.png"
+    },
+    "position": {
+      "x": 450.0,
+      "y": 544.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n1",
+      "label": "La Tercera",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -51.0,
+      "y": 760.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n2",
+      "label": "La Cuarta",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -81.0,
+      "y": 867.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n3",
+      "label": "Pontificia Universidad Cat\u00f3lica",
+      "type": "maltego.EducationInstitution"
+    },
+    "position": {
+      "x": 58.0,
+      "y": -1261.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n4",
+      "label": "Fundaci\u00f3n ChileSiempre",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 902.0,
+      "y": 154.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n5",
+      "label": "Sociedad Matriz SAAM",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -1061.0,
+      "y": -653.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n6",
+      "label": "CESEC",
+      "type": "maltego.EducationInstitution"
+    },
+    "position": {
+      "x": -560.0,
+      "y": -666.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n7",
+      "label": "Radio Agricultura",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 788.0,
+      "y": 371.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n8",
+      "label": "El L\u00edbero",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 2577.0,
+      "y": -9.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n9",
+      "label": "ETC",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 38.0,
+      "y": 1268.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n10",
+      "label": "Jaime Guzm\u00e1n",
+      "type": "maltego.Person",
+      "image": "Screenshot_265.png"
+    },
+    "position": {
+      "x": 155.0,
+      "y": -616.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n11",
+      "label": "George Stigler",
+      "type": "maltego.Person",
+      "image": "Screenshot_321.png"
+    },
+    "position": {
+      "x": 939.0,
+      "y": -1758.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n12",
+      "label": "Escuela de Chicago",
+      "type": "maltego.PoliticalMovement"
+    },
+    "position": {
+      "x": 678.0,
+      "y": -1484.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n13",
+      "label": "@Ipoduje",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 2047.0,
+      "y": 630.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n14",
+      "label": "Bethia",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -545.0,
+      "y": 1143.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n15",
+      "label": "@DRESTRUM__Pl",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 2054.0,
+      "y": 1173.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n16",
+      "label": "Mara Sedini",
+      "type": "maltego.Person",
+      "image": "Screenshot_285.png"
+    },
+    "position": {
+      "x": 1768.0,
+      "y": 154.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n17",
+      "label": "TOKY (@canserbero73)",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1680.0,
+      "y": 1358.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n18",
+      "label": "Jaime Bellolio",
+      "type": "maltego.Person",
+      "image": "Screenshot_307.png"
+    },
+    "position": {
+      "x": 1055.0,
+      "y": -960.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n19",
+      "label": "Rodolfo Carter",
+      "type": "maltego.Person",
+      "image": "Screenshot_278.png"
+    },
+    "position": {
+      "x": 1286.0,
+      "y": 35.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n20",
+      "label": "Pancho Orrego",
+      "type": "maltego.Person",
+      "image": "Screenshot_279.png"
+    },
+    "position": {
+      "x": 795.0,
+      "y": 759.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n21",
+      "label": "Jorge Selume",
+      "type": "maltego.Person",
+      "image": "Screenshot_275.png"
+    },
+    "position": {
+      "x": 212.0,
+      "y": 400.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n22",
+      "label": "Colb\u00fan",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -1023.0,
+      "y": -62.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n23",
+      "label": "Bice",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -1031.0,
+      "y": -210.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n24",
+      "label": "@Meruanista",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 2073.0,
+      "y": 1276.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n25",
+      "label": "Arauco",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -866.0,
+      "y": 75.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n26",
+      "label": "@ClintJoselito",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1929.0,
+      "y": 916.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n27",
+      "label": "CMPC",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -617.0,
+      "y": 246.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n28",
+      "label": "Con Mi Plata No",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1114.0,
+      "y": 651.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n29",
+      "label": "Felipe Kast",
+      "type": "maltego.Person",
+      "image": "Screenshot_294.png"
+    },
+    "position": {
+      "x": 1449.0,
+      "y": -77.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n30",
+      "label": "Radio Disney",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 33.0,
+      "y": 1379.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n31",
+      "label": "FM Tiempo",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -98.0,
+      "y": 1434.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n32",
+      "label": "Nicol\u00e1s Ib\u00e1\u00f1ez",
+      "type": "maltego.Person",
+      "image": "Screenshot_301.png"
+    },
+    "position": {
+      "x": 2392.0,
+      "y": -604.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n33",
+      "label": "Jos\u00e9 Antonio Kast",
+      "type": "maltego.Person",
+      "image": "Screenshot_268.png"
+    },
+    "position": {
+      "x": 749.0,
+      "y": -54.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n34",
+      "label": "@Josefcolagos",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1853.0,
+      "y": 795.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n35",
+      "label": "Ricardo Matias Inaiman Barrios",
+      "type": "maltego.Person",
+      "image": "Screenshot_281.png"
+    },
+    "position": {
+      "x": 872.0,
+      "y": 873.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n36",
+      "label": "SQM",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -334.0,
+      "y": -134.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n37",
+      "label": "Dag Von Appen",
+      "type": "maltego.Person",
+      "image": "Screenshot_306.png"
+    },
+    "position": {
+      "x": 824.0,
+      "y": -772.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n38",
+      "label": "Jos\u00e9 Francisco Lagos",
+      "type": "maltego.Person",
+      "image": "Screenshot_287.png"
+    },
+    "position": {
+      "x": 1937.0,
+      "y": 402.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n39",
+      "label": "CorpGroup ",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -589.0,
+      "y": 729.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n40",
+      "label": "Promoci\u00f3n de cuentas en X",
+      "type": "maltego.AttackPattern"
+    },
+    "position": {
+      "x": 1907.0,
+      "y": 1391.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n41",
+      "label": "Angelini",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": -1210.0,
+      "y": 503.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n42",
+      "label": "Mega",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -100.0,
+      "y": 1102.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n43",
+      "label": "@lobofacho",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1826.0,
+      "y": 683.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n44",
+      "label": "Anthony Fisher",
+      "type": "maltego.Person",
+      "image": "Screenshot_324.png"
+    },
+    "position": {
+      "x": 1318.0,
+      "y": -1768.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n45",
+      "label": "Ev\u00f3poli",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 594.0,
+      "y": 411.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n46",
+      "label": "\"Expertos\" en econom\u00eda ",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": -413.0,
+      "y": -885.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n47",
+      "label": "Ministerio de Vivienda",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -123.0,
+      "y": 480.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n48",
+      "label": "Hern\u00e1n B\u00fcchi",
+      "type": "maltego.Person",
+      "image": "Screenshot_304.png"
+    },
+    "position": {
+      "x": 1330.0,
+      "y": -576.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n49",
+      "label": "Beatriz Hevia",
+      "type": "maltego.Person",
+      "image": "Screenshot_333.png"
+    },
+    "position": {
+      "x": 425.0,
+      "y": 247.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n50",
+      "label": "Eliodoro Matte",
+      "type": "maltego.Person",
+      "image": "Screenshot_273.png"
+    },
+    "position": {
+      "x": 99.0,
+      "y": 105.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n51",
+      "label": "Bettina Horst",
+      "type": "maltego.Person",
+      "image": "Screenshot_327.png",
+      "notes": "Informaci&#243;n LyD y Atlas:&#10;https://lyd.org/nosotros/direccion/2012/11/bettina-horst-von-t/"
+    },
+    "position": {
+      "x": 1371.0,
+      "y": -1419.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n52",
+      "label": "@KarenKoetje",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 2077.0,
+      "y": 1643.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n53",
+      "label": "Heritage Foundation",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 1439.0,
+      "y": -1582.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n54",
+      "label": "Johannes Kaiser",
+      "type": "maltego.Person",
+      "image": "Screenshot_286.png"
+    },
+    "position": {
+      "x": 1722.0,
+      "y": 286.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n55",
+      "label": "NN Empresa en Alemania",
+      "type": "maltego.Person",
+      "image": "Screenshot_326.png"
+    },
+    "position": {
+      "x": 2522.0,
+      "y": 1512.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n56",
+      "label": "Teresa Marinovic",
+      "type": "maltego.Person",
+      "image": "Screenshot_302.png"
+    },
+    "position": {
+      "x": 2140.0,
+      "y": -848.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n57",
+      "label": "Axel Kaiser",
+      "type": "maltego.Person",
+      "image": "Screenshot_296.png"
+    },
+    "position": {
+      "x": 1548.0,
+      "y": -128.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n58",
+      "label": "Banco de Chile",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -805.0,
+      "y": -745.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n59",
+      "label": "Diego Fleischmann Chadwick",
+      "type": "maltego.Person",
+      "image": "Screenshot_34.png"
+    },
+    "position": {
+      "x": 823.0,
+      "y": 255.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n60",
+      "label": "Richard Nixon - CIA",
+      "type": "maltego.Person",
+      "image": "Screenshot_341.png"
+    },
+    "position": {
+      "x": -393.0,
+      "y": -1253.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n61",
+      "label": "Qui\u00f1enco",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -1125.0,
+      "y": -289.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n62",
+      "label": "CCU",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -1222.0,
+      "y": -574.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n63",
+      "label": "Vapores",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -1256.0,
+      "y": -104.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n64",
+      "label": "Political Network for Values",
+      "type": "maltego.Organization"
+    },
+    "position": {
+      "x": 497.0,
+      "y": -1834.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n65",
+      "label": "Ideas Republicanas",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 1242.0,
+      "y": -940.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n66",
+      "label": "Fundaci\u00f3n Jaime Guzm\u00e1n",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 1484.0,
+      "y": -1280.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n67",
+      "label": "Andr\u00f3nico Luksic Craig",
+      "type": "maltego.Person",
+      "image": "Screenshot_274.png"
+    },
+    "position": {
+      "x": -373.0,
+      "y": 687.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n68",
+      "label": "Cathy Barriga",
+      "type": "maltego.Person",
+      "image": "Screenshot_310.png"
+    },
+    "position": {
+      "x": 841.0,
+      "y": -1243.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n69",
+      "label": "Iv\u00e1n Poduje",
+      "type": "maltego.Person",
+      "image": "Screenshot_276.png"
+    },
+    "position": {
+      "x": 2208.0,
+      "y": 333.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n70",
+      "label": "Fundaci\u00f3n Un Solo Coraz\u00f3n",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 429.0,
+      "y": -416.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n71",
+      "label": "Francisco Marinovic",
+      "type": "maltego.Person",
+      "image": "Screenshot_303.png"
+    },
+    "position": {
+      "x": 2022.0,
+      "y": -843.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n72",
+      "label": "EEUU",
+      "type": "maltego.Person",
+      "image": "1Screenshot_341.png"
+    },
+    "position": {
+      "x": 2608.0,
+      "y": 1195.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n73",
+      "label": "Evelyn Matthei",
+      "type": "maltego.Person",
+      "image": "Screenshot_318.png"
+    },
+    "position": {
+      "x": 202.0,
+      "y": -880.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n74",
+      "label": "Canal 13",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 4.0,
+      "y": 630.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n75",
+      "label": "Joaqu\u00edn Lav\u00edn Le\u00f3n",
+      "type": "maltego.Person",
+      "image": "Screenshot_311.png"
+    },
+    "position": {
+      "x": 660.0,
+      "y": -1221.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n76",
+      "label": "Arturo Fontaine Talavera",
+      "type": "maltego.Person",
+      "image": "Screenshot_298.png",
+      "notes": "https://www.cepchile.cl/cep-40-aniversario/arturo-fontaine-talavera-nuevo-director-del-cep/"
+    },
+    "position": {
+      "x": 1040.0,
+      "y": -345.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n77",
+      "label": "Javiera Rodr\u00edguez Pascual",
+      "type": "maltego.Person",
+      "image": "Screenshot_292.png"
+    },
+    "position": {
+      "x": 2198.0,
+      "y": 96.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n78",
+      "label": "Legi\u00f3n Patriota",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": 1263.0,
+      "y": 556.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n79",
+      "label": "Mares @EsmeVeral",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1899.0,
+      "y": 1658.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n80",
+      "label": "Mane @Mane_Bot18",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1702.0,
+      "y": 1657.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n81",
+      "label": "Emiliano Fern\u00e1ndez Palermo",
+      "type": "maltego.Person",
+      "image": "Screenshot_284.png"
+    },
+    "position": {
+      "x": 1608.0,
+      "y": 255.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n82",
+      "label": "Marcela Cubillos",
+      "type": "maltego.Person",
+      "image": "Screenshot_295.png"
+    },
+    "position": {
+      "x": 1230.0,
+      "y": -177.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n83",
+      "label": "Red Salud",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 2959.0,
+      "y": -210.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n84",
+      "label": "La Mano Invisible",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1501.0,
+      "y": 592.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n85",
+      "label": "Matte",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": -1273.0,
+      "y": 252.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n86",
+      "label": "Joaqu\u00edn Lav\u00edn Infante",
+      "type": "maltego.Person",
+      "image": "Screenshot_313.png"
+    },
+    "position": {
+      "x": 757.0,
+      "y": -1373.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n87",
+      "label": "Consalud",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 3051.0,
+      "y": -213.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n88",
+      "label": "Partido Republicano",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 778.0,
+      "y": -540.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n89",
+      "label": "@FridaSiKahlo",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1714.0,
+      "y": 1519.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n90",
+      "label": "Sin Filtros TV",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1611.0,
+      "y": 596.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n91",
+      "label": "Artool",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -123.0,
+      "y": 128.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n92",
+      "label": "Fundaci\u00f3n Nueva Mente",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 1897.0,
+      "y": -106.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n93",
+      "label": "Poblaci\u00f3n",
+      "type": "maltego.Person"
+    },
+    "position": {
+      "x": 761.0,
+      "y": 1116.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n94",
+      "label": "Sebasti\u00e1n Pi\u00f1era",
+      "type": "maltego.Person",
+      "image": "Screenshot_334.png"
+    },
+    "position": {
+      "x": -378.0,
+      "y": -648.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n95",
+      "label": "Fiscal Urbano",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 2198.0,
+      "y": 770.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n96",
+      "label": "Cato Institute",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 1550.0,
+      "y": -1874.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n97",
+      "label": "Leadership Institute Chile",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 1541.0,
+      "y": -632.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n98",
+      "label": "Eduardo Sep\u00falveda",
+      "type": "maltego.Person",
+      "image": "Screenshot_325.png"
+    },
+    "position": {
+      "x": 2027.0,
+      "y": -1143.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n99",
+      "label": "Nuevas Voces",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 791.0,
+      "y": 547.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n100",
+      "label": "Legi\u00f3n Zorro",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": 1427.0,
+      "y": 562.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n101",
+      "label": "La Segunda",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -977.0,
+      "y": -904.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n102",
+      "label": "Emol",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -808.0,
+      "y": -896.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n103",
+      "label": "Cecinas Bavaria",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 505.0,
+      "y": 704.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n104",
+      "label": "Fundaci\u00f3n Para el Progreso",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 1717.0,
+      "y": -602.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n105",
+      "label": "Ciudadano Austral",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 1795.0,
+      "y": -778.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n106",
+      "label": "BCI",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -791.0,
+      "y": 107.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n107",
+      "label": "Jenny Pamela Oliv\u00e1rez Asencio",
+      "type": "maltego.Person",
+      "image": "Screenshot_340.png"
+    },
+    "position": {
+      "x": 2302.0,
+      "y": 1413.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n108",
+      "label": "La Vanguardia",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": 1342.0,
+      "y": 531.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n109",
+      "label": "Universidad de Harvard",
+      "type": "maltego.EducationInstitution"
+    },
+    "position": {
+      "x": -252.0,
+      "y": -1460.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n110",
+      "label": "Tom\u00e1s Bengolea",
+      "type": "maltego.Person",
+      "image": "Screenshot_269.png"
+    },
+    "position": {
+      "x": 558.0,
+      "y": 225.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n111",
+      "label": "Para\u00edsos Fiscales en Panam\u00e1",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -1290.0,
+      "y": 2111.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n112",
+      "label": "Falabella",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -708.0,
+      "y": 100.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n113",
+      "label": "UDI",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 499.0,
+      "y": -1047.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n114",
+      "label": "Bernardo Fontaine",
+      "type": "maltego.Person",
+      "image": "Screenshot_293.png"
+    },
+    "position": {
+      "x": 1100.0,
+      "y": 207.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n115",
+      "label": "El Capi @CapiLevi",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 2047.0,
+      "y": 1090.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n116",
+      "label": "Atlas Network",
+      "type": "maltego.Organization"
+    },
+    "position": {
+      "x": 1834.0,
+      "y": -1545.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n117",
+      "label": "Francisco Bustos Jara",
+      "type": "maltego.Person",
+      "image": "Screenshot_289.png"
+    },
+    "position": {
+      "x": 2289.0,
+      "y": 1003.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n118",
+      "label": "Solari",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": -742.0,
+      "y": 1026.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n119",
+      "label": "LAN",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -704.0,
+      "y": -573.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n120",
+      "label": "Saieh",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": -1006.0,
+      "y": 787.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n121",
+      "label": "Diario Financiero",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -99.0,
+      "y": 993.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n122",
+      "label": "@Patitoo_Verde",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1018.0,
+      "y": 961.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n123",
+      "label": "Reclutamiento \"Batalla Cultural\"",
+      "type": "maltego.AttackPattern"
+    },
+    "position": {
+      "x": 1865.0,
+      "y": 566.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n124",
+      "label": "Milton Friedman",
+      "type": "maltego.Person",
+      "image": "Screenshot_320.png"
+    },
+    "position": {
+      "x": 854.0,
+      "y": -1818.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n125",
+      "label": "Arturo Fontaine Aldunate",
+      "type": "maltego.Person",
+      "image": "Screenshot_264.png"
+    },
+    "position": {
+      "x": 360.0,
+      "y": -570.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n126",
+      "label": "Mar\u00eda P\u00eda Adriasola",
+      "type": "maltego.Person",
+      "image": "Screenshot_331.png"
+    },
+    "position": {
+      "x": 405.0,
+      "y": 40.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n127",
+      "label": "Jos\u00e9 Antonio Guzm\u00e1n",
+      "type": "maltego.Person",
+      "image": "Screenshot_300.png"
+    },
+    "position": {
+      "x": 2608.0,
+      "y": -216.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n128",
+      "label": "Salcobrand",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -300.0,
+      "y": 575.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n129",
+      "label": "CORFO",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -562.0,
+      "y": -373.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n130",
+      "label": "Sebasti\u00e1n Izquierdo",
+      "type": "maltego.Person",
+      "image": "Screenshot_282.png"
+    },
+    "position": {
+      "x": 1312.0,
+      "y": 293.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n131",
+      "label": "Asoc. de Productores Av\u00edcolas",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -170.0,
+      "y": 614.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n132",
+      "label": "Universidad de Chicago",
+      "type": "maltego.EducationInstitution"
+    },
+    "position": {
+      "x": 49.0,
+      "y": -1568.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n133",
+      "label": "VOX (Espa\u00f1a)",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 288.0,
+      "y": -1974.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n134",
+      "label": "El Nacional Libertario",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1696.0,
+      "y": 650.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n135",
+      "label": "Agust\u00edn Edwards",
+      "type": "maltego.Person",
+      "image": "Screenshot_315.png"
+    },
+    "position": {
+      "x": -633.0,
+      "y": -963.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n136",
+      "label": "Patricio G\u00f3ngora",
+      "type": "maltego.Person",
+      "image": "Screenshot_299.png"
+    },
+    "position": {
+      "x": 210.0,
+      "y": 729.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n137",
+      "label": "Clima de temor e inseguridad",
+      "type": "maltego.AttackPattern"
+    },
+    "position": {
+      "x": 227.0,
+      "y": 1113.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n138",
+      "label": "AFP",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -653.0,
+      "y": -169.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n139",
+      "label": "C\u00e1mara Chilena de la Construcci\u00f3n",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": 2953.0,
+      "y": -448.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n140",
+      "label": "Christian Kast Rist",
+      "type": "maltego.Person",
+      "image": "Screenshot_330.png"
+    },
+    "position": {
+      "x": 96.0,
+      "y": 362.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n141",
+      "label": "\"La Hora de la Marmota\"",
+      "type": "maltego.AttackPattern"
+    },
+    "position": {
+      "x": 1344.0,
+      "y": 1262.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n142",
+      "label": "Jos\u00e9 Pi\u00f1era",
+      "type": "maltego.Person",
+      "image": "Screenshot_261.png"
+    },
+    "position": {
+      "x": -86.0,
+      "y": -347.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n143",
+      "label": "Von Appen",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": -1351.0,
+      "y": -337.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n144",
+      "label": "Yarur",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": -1058.0,
+      "y": 674.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n145",
+      "label": "AFP H\u00e1bitat",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 2872.0,
+      "y": -212.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n146",
+      "label": "Hern\u00e1n Cubillos",
+      "type": "maltego.Person",
+      "image": "Screenshot_267.png"
+    },
+    "position": {
+      "x": 34.0,
+      "y": -393.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n147",
+      "label": "Inmobiliaria Padua",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 661.0,
+      "y": 560.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n148",
+      "label": "Pinochet (muerto en 2006)",
+      "type": "maltego.Person",
+      "image": "Screenshot_263.png"
+    },
+    "position": {
+      "x": 294.0,
+      "y": -163.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n149",
+      "label": "Essity (ex PISA)",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 2714.0,
+      "y": 468.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n150",
+      "label": "Edwin Feulner",
+      "type": "maltego.Person",
+      "image": "Screenshot_323.png"
+    },
+    "position": {
+      "x": 1245.0,
+      "y": -1666.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n151",
+      "label": "Patricia Matte",
+      "type": "maltego.Person",
+      "image": "Screenshot_272.png"
+    },
+    "position": {
+      "x": 103.0,
+      "y": 9.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n152",
+      "label": "Ultramar",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -1330.0,
+      "y": -539.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n153",
+      "label": "Mat\u00edas Lorca",
+      "type": "maltego.Person",
+      "image": "Screenshot_280.png"
+    },
+    "position": {
+      "x": 923.0,
+      "y": 784.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n154",
+      "label": "Claro",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": -871.0,
+      "y": 888.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n155",
+      "label": "Miguel Kast Rist",
+      "type": "maltego.Person",
+      "image": "Screenshot_266.png"
+    },
+    "position": {
+      "x": 230.0,
+      "y": -502.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n156",
+      "label": "New Direction Foundation",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 218.0,
+      "y": -1757.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n157",
+      "label": "Julio Ponce Lerou",
+      "type": "maltego.Person",
+      "image": "Screenshot_271.png"
+    },
+    "position": {
+      "x": -559.0,
+      "y": 381.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n158",
+      "label": "Roberto Belmar Vergara",
+      "type": "maltego.Person",
+      "image": "Screenshot_283.png"
+    },
+    "position": {
+      "x": 1486.0,
+      "y": 297.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n159",
+      "label": "Francisco de La Diestra ",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 2041.0,
+      "y": 1001.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n160",
+      "label": "Centro de Estudios P\u00fablicos ",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 1376.0,
+      "y": -443.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n161",
+      "label": "Iglesia Conservadora",
+      "type": "maltego.ReligiousGroup"
+    },
+    "position": {
+      "x": 481.0,
+      "y": -2056.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n162",
+      "label": "Andr\u00e9s Chadwick",
+      "type": "maltego.Person",
+      "image": "Screenshot_308.png"
+    },
+    "position": {
+      "x": 947.0,
+      "y": -1115.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n163",
+      "label": "El Canal de Mati",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1137.0,
+      "y": 735.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n164",
+      "label": "Cristi\u00e1n Larroulet Vignau",
+      "type": "maltego.Person",
+      "image": "Screenshot_305.png"
+    },
+    "position": {
+      "x": 1249.0,
+      "y": -645.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n165",
+      "label": "Colegio Campanario ",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 603.0,
+      "y": 719.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n166",
+      "label": "Chicago Boys",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": -394.0,
+      "y": -469.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n167",
+      "label": "Mont Pelerin Society",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": 1157.0,
+      "y": -1841.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n168",
+      "label": "COPEC",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": -946.0,
+      "y": 23.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n169",
+      "label": "Violentismo",
+      "type": "maltego.Incident"
+    },
+    "position": {
+      "x": 1299.0,
+      "y": 753.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n170",
+      "label": "Jorge Cauas Lama",
+      "type": "maltego.Person",
+      "image": "Screenshot_297.png"
+    },
+    "position": {
+      "x": 1087.0,
+      "y": -128.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n171",
+      "label": "Alvaro Bellolio",
+      "type": "maltego.Person",
+      "image": "Screenshot_317.png"
+    },
+    "position": {
+      "x": 730.0,
+      "y": -829.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n172",
+      "label": "Kirk Andrew Hobbs",
+      "type": "maltego.Person"
+    },
+    "position": {
+      "x": 2304.0,
+      "y": 1196.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n173",
+      "label": "Rom\u00e1ntica FM",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -101.0,
+      "y": 1193.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n174",
+      "label": "Mar\u00eda Ver\u00f3nica Pinochet",
+      "type": "maltego.Person",
+      "image": "Screenshot_329.png"
+    },
+    "position": {
+      "x": -233.0,
+      "y": 26.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n175",
+      "label": "Neuroc (@HailDissenter)",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1084.0,
+      "y": 865.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n176",
+      "label": "Rafio Infinita",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 23.0,
+      "y": 1173.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n177",
+      "label": "@Memerluzo",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 1282.0,
+      "y": 841.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n178",
+      "label": "Jorge Quiroz",
+      "type": "maltego.Person",
+      "image": "Screenshot_270.png"
+    },
+    "position": {
+      "x": 236.0,
+      "y": 203.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n179",
+      "label": "Francisca Ponce Pinochet",
+      "type": "maltego.Person",
+      "image": "Screenshot_328.png"
+    },
+    "position": {
+      "x": -25.0,
+      "y": 269.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n180",
+      "label": "Jos\u00e9 Cristian Matamala Quezada",
+      "type": "maltego.Person",
+      "image": "Screenshot_288.png"
+    },
+    "position": {
+      "x": 2209.0,
+      "y": 847.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n181",
+      "label": "Hern\u00e1n Larra\u00edn Fern\u00e1ndez",
+      "type": "maltego.Person",
+      "image": "Screenshot_314.png"
+    },
+    "position": {
+      "x": 911.0,
+      "y": -1447.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n182",
+      "label": "@JeannyHobbs",
+      "type": "maltego.OnlineGroup"
+    },
+    "position": {
+      "x": 2085.0,
+      "y": 1414.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n183",
+      "label": "Pampa",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": -540.0,
+      "y": 1000.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n184",
+      "label": "Sergio de Castro",
+      "type": "maltego.Person",
+      "image": "Screenshot_316.png"
+    },
+    "position": {
+      "x": -101.0,
+      "y": -695.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n185",
+      "label": "Radio Carolina",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -100.0,
+      "y": 1312.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n186",
+      "label": "Edwards",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": -949.0,
+      "y": -1104.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n187",
+      "label": "Movimiento Gremial UC",
+      "type": "maltego.PoliticalMovement"
+    },
+    "position": {
+      "x": 19.0,
+      "y": -888.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n188",
+      "label": "D&S (Supermercados Lider)",
+      "type": "maltego.Industry"
+    },
+    "position": {
+      "x": 2790.0,
+      "y": -607.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n189",
+      "label": "Michael Kast Schindele",
+      "type": "maltego.Person",
+      "image": "Screenshot_335.png"
+    },
+    "position": {
+      "x": -59.0,
+      "y": -91.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n190",
+      "label": "Gabriel Ruiz-Tagle",
+      "type": "maltego.Person",
+      "image": "Screenshot_291.png"
+    },
+    "position": {
+      "x": 2563.0,
+      "y": 169.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n191",
+      "label": "Friedrich Hayek",
+      "type": "maltego.Person",
+      "image": "Screenshot_319.png"
+    },
+    "position": {
+      "x": 1156.0,
+      "y": -2012.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n192",
+      "label": "Instituto Res P\u00fablica",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 2090.0,
+      "y": -108.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n193",
+      "label": "El Mercurio",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -387.0,
+      "y": -1019.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n194",
+      "label": "Arnold Harberger",
+      "type": "maltego.Person",
+      "image": "Screenshot_322.png"
+    },
+    "position": {
+      "x": 1016.0,
+      "y": -1693.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n195",
+      "label": "\"Fundaci\u00f3n\" CEP",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": -672.0,
+      "y": 553.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n196",
+      "label": "Campa\u00f1a en Redes Sociales",
+      "type": "maltego.AttackPattern"
+    },
+    "position": {
+      "x": 1256.0,
+      "y": 1119.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n197",
+      "label": "Fundaci\u00f3n Ciudadanos en Acci\u00f3n",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 1172.0,
+      "y": 471.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n198",
+      "label": "Esteban G\u00f3mez Contreras",
+      "type": "maltego.Person",
+      "image": "Screenshot_290.png"
+    },
+    "position": {
+      "x": 2304.0,
+      "y": 1096.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n199",
+      "label": "Luksic",
+      "type": "maltego.Gang"
+    },
+    "position": {
+      "x": -1271.0,
+      "y": 50.0
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "n200",
+      "label": "Fundaci\u00f3n Libertad y Desarrollo",
+      "type": "maltego.Company"
+    },
+    "position": {
+      "x": 1412.0,
+      "y": -906.0
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e0",
+      "source": "n14",
+      "target": "n42",
+      "label": "Due\u00f1os",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e1",
+      "source": "n69",
+      "target": "n3",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e2",
+      "source": "n48",
+      "target": "n148",
+      "label": "Ministro de Hacienda 85'-89'",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e3",
+      "source": "n14",
+      "target": "n9",
+      "label": "Due\u00f1os",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e4",
+      "source": "n118",
+      "target": "n14",
+      "label": "Due\u00f1os",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e5",
+      "source": "n138",
+      "target": "n5",
+      "label": "inversiones",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 3
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e6",
+      "source": "n189",
+      "target": "n33",
+      "label": "Hijo",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e7",
+      "source": "n69",
+      "target": "n13",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e8",
+      "source": "n98",
+      "target": "n8",
+      "label": "Director",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e9",
+      "source": "n114",
+      "target": "n33",
+      "label": "Crear medidas para los primeros 90 d\u00edas de Kast",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e10",
+      "source": "n43",
+      "target": "n196",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e11",
+      "source": "n148",
+      "target": "n36",
+      "label": "Desde el estado vendi\u00f3 la empresa a MUY bajo costo a su yerno (a\u00fan son due\u00f1os)",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e12",
+      "source": "n135",
+      "target": "n6",
+      "label": "Crea y financia (1968)",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 2
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e13",
+      "source": "n127",
+      "target": "n8",
+      "label": "Financiamiento",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e14",
+      "source": "n132",
+      "target": "n12",
+      "label": "Movimiento ideol\u00f3gico",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e15",
+      "source": "n155",
+      "target": "n33",
+      "label": "Hermano",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e16",
+      "source": "n90",
+      "target": "n196",
+      "label": "",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e17",
+      "source": "n136",
+      "target": "n7",
+      "label": "Inicios",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e18",
+      "source": "n197",
+      "target": "n28",
+      "label": "Financiamiento campa\u00f1a a favor de AFP",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e19",
+      "source": "n192",
+      "target": "n4",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e20",
+      "source": "n125",
+      "target": "n48",
+      "label": "Campa\u00f1a presidencial 89'",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e21",
+      "source": "n61",
+      "target": "n63",
+      "label": "Due\u00f1o 25,21%",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e22",
+      "source": "n38",
+      "target": "n7",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e23",
+      "source": "n34",
+      "target": "n196",
+      "label": "Discursos de odio y desinformaci\u00f3n",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e24",
+      "source": "n134",
+      "target": "n196",
+      "label": "",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e25",
+      "source": "n155",
+      "target": "n29",
+      "label": "Hijo",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e26",
+      "source": "n18",
+      "target": "n171",
+      "label": "Hermanos",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e27",
+      "source": "n97",
+      "target": "n19",
+      "label": "Entrenamiento pol\u00edtico",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e28",
+      "source": "n3",
+      "target": "n132",
+      "label": "Estudiantes seleccionados",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e29",
+      "source": "n15",
+      "target": "n196",
+      "label": "Memes, difusi\u00f3n y ataques",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e30",
+      "source": "n69",
+      "target": "n90",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e31",
+      "source": "n116",
+      "target": "n104",
+      "label": "Asesora",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e32",
+      "source": "n195",
+      "target": "n160",
+      "label": "Ganancias de la \"fundaci\u00f3n\"",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 3
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e33",
+      "source": "n57",
+      "target": "n81",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e34",
+      "source": "n81",
+      "target": "n54",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e35",
+      "source": "n33",
+      "target": "n29",
+      "label": "T\u00edo",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e36",
+      "source": "n61",
+      "target": "n5",
+      "label": "Due\u00f1o 62,6%",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e37",
+      "source": "n81",
+      "target": "n84",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e38",
+      "source": "n97",
+      "target": "n18",
+      "label": "Entrenamiento para pol\u00edtica",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e39",
+      "source": "n186",
+      "target": "n160",
+      "label": "Miembro en el CEP",
+      "color": "#ffe100",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e40",
+      "source": "n85",
+      "target": "n50",
+      "label": "",
+      "color": "#000000",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e41",
+      "source": "n69",
+      "target": "n95",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e42",
+      "source": "n97",
+      "target": "n114",
+      "label": "Entrenamiento para pol\u00edtica",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e43",
+      "source": "n189",
+      "target": "n155",
+      "label": "Hijo",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e44",
+      "source": "n143",
+      "target": "n160",
+      "label": "Miembro en el CEP",
+      "color": "#ffe100",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e45",
+      "source": "n54",
+      "target": "n90",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e46",
+      "source": "n193",
+      "target": "n98",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e47",
+      "source": "n19",
+      "target": "n88",
+      "label": "",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e48",
+      "source": "n92",
+      "target": "n95",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e49",
+      "source": "n199",
+      "target": "n160",
+      "label": "Miembro en el CEP",
+      "color": "#ffe100",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e50",
+      "source": "n144",
+      "target": "n160",
+      "label": "Miembro en el CEP",
+      "color": "#ffe100",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e51",
+      "source": "n132",
+      "target": "n46",
+      "label": "Forma",
+      "color": "#3c8960",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e52",
+      "source": "n81",
+      "target": "n90",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e53",
+      "source": "n137",
+      "target": "n93",
+      "label": "Miedo, incertidumbre y rabia",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e54",
+      "source": "n56",
+      "target": "n92",
+      "label": "Fundadora",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e55",
+      "source": "n151",
+      "target": "n3",
+      "label": "Soci\u00f3loga",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e56",
+      "source": "n196",
+      "target": "n93",
+      "label": "Ideas de odio y emocionales, esl\u00f3ganes y ridiculizaci\u00f3n del oponente",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e57",
+      "source": "n88",
+      "target": "n65",
+      "label": "94 Millones desde el Congreso por \"asesor\u00edas\" en 2024",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e58",
+      "source": "n116",
+      "target": "n65",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e59",
+      "source": "n75",
+      "target": "n113",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e60",
+      "source": "n52",
+      "target": "n40",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e61",
+      "source": "n75",
+      "target": "n68",
+      "label": "Esposa",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e62",
+      "source": "n178",
+      "target": "n33",
+      "label": "Coordinador Econ\u00f3mico",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e63",
+      "source": "n55",
+      "target": "n52",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e64",
+      "source": "n178",
+      "target": "n200",
+      "label": "Medio de difusi\u00f3n",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e65",
+      "source": "n33",
+      "target": "n3",
+      "label": "Derecho",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e66",
+      "source": "n96",
+      "target": "n116",
+      "label": "Ecosistema",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 2
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e67",
+      "source": "n55",
+      "target": "n172",
+      "label": "Amiga de la pareja",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e68",
+      "source": "n73",
+      "target": "n113",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e69",
+      "source": "n78",
+      "target": "n169",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e70",
+      "source": "n135",
+      "target": "n60",
+      "label": "Viaje a EEUU 09/1970",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e71",
+      "source": "n116",
+      "target": "n105",
+      "label": "Asesora",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e72",
+      "source": "n115",
+      "target": "n196",
+      "label": "Memes, difusi\u00f3n de desinformaci\u00f3n",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e73",
+      "source": "n86",
+      "target": "n75",
+      "label": "Hijo",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e74",
+      "source": "n73",
+      "target": "n3",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e75",
+      "source": "n116",
+      "target": "n192",
+      "label": "Asesora",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e76",
+      "source": "n138",
+      "target": "n61",
+      "label": "Inversiones",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 3
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e77",
+      "source": "n33",
+      "target": "n93",
+      "label": "Supuesto \"Salvador\"",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e78",
+      "source": "n20",
+      "target": "n28",
+      "label": "L\u00edder de campa\u00f1a",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e79",
+      "source": "n55",
+      "target": "n107",
+      "label": "Amiga de la pareja",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e80",
+      "source": "n60",
+      "target": "n193",
+      "label": "US $2MM para DESINFORMACI\u00d3N (1970)",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e81",
+      "source": "n136",
+      "target": "n138",
+      "label": "Gerente de comunicaciones de la AAFP",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e82",
+      "source": "n116",
+      "target": "n200",
+      "label": "Asesora",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e83",
+      "source": "n71",
+      "target": "n92",
+      "label": "Director",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e84",
+      "source": "n57",
+      "target": "n54",
+      "label": "Hermano",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e85",
+      "source": "n116",
+      "target": "n97",
+      "label": "Asesora",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e86",
+      "source": "n72",
+      "target": "n172",
+      "label": "Gringo nacionalizado",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e87",
+      "source": "n99",
+      "target": "n20",
+      "label": "Panelista frecuente",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e88",
+      "source": "n126",
+      "target": "n70",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e89",
+      "source": "n159",
+      "target": "n196",
+      "label": "Memes, difusi\u00f3n de desinformaci\u00f3n",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e90",
+      "source": "n177",
+      "target": "n196",
+      "label": "Creaci\u00f3n de memes, difusi\u00f3n de odio y desinformaci\u00f3n",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e91",
+      "source": "n33",
+      "target": "n88",
+      "label": "Creador (2019)",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e92",
+      "source": "n160",
+      "target": "n8",
+      "label": "",
+      "color": "#00a2e8",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e93",
+      "source": "n77",
+      "target": "n8",
+      "label": "Periodista",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e94",
+      "source": "n136",
+      "target": "n74",
+      "label": "Director",
+      "color": "#c7672a",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e95",
+      "source": "n118",
+      "target": "n195",
+      "label": "",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 4
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e96",
+      "source": "n19",
+      "target": "n20",
+      "label": "$2,2 MM de la Muni. de La Florida (rechazado)",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e97",
+      "source": "n89",
+      "target": "n40",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e98",
+      "source": "n199",
+      "target": "n61",
+      "label": "Due\u00f1os 83%",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e99",
+      "source": "n33",
+      "target": "n187",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e100",
+      "source": "n80",
+      "target": "n40",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e101",
+      "source": "n118",
+      "target": "n112",
+      "label": "Due\u00f1os",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e102",
+      "source": "n93",
+      "target": "n138",
+      "label": "% del sueldo obligatorio",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 5
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e103",
+      "source": "n17",
+      "target": "n196",
+      "label": "Memes, difusi\u00f3n de desinformaci\u00f3n y ataques",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e104",
+      "source": "n116",
+      "target": "n92",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e105",
+      "source": "n79",
+      "target": "n40",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e106",
+      "source": "n68",
+      "target": "n66",
+      "label": "Pago de $1.6 Millones de la Municipalidad de Maip\u00fa en 2017",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e107",
+      "source": "n84",
+      "target": "n196",
+      "label": "Sabotaje irrumpiendo en reuniones",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e108",
+      "source": "n97",
+      "target": "n38",
+      "label": "Entrenamiento para pol\u00edtica",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e109",
+      "source": "n79",
+      "target": "n182",
+      "label": "Amiga",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e110",
+      "source": "n142",
+      "target": "n96",
+      "label": "Senior Distinguished Fellow",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 3
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e111",
+      "source": "n89",
+      "target": "n182",
+      "label": "Relaci\u00f3n cercana",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e112",
+      "source": "n178",
+      "target": "n128",
+      "label": "Colusi\u00f3n Farmacias",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e113",
+      "source": "n33",
+      "target": "n64",
+      "label": "",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e114",
+      "source": "n155",
+      "target": "n148",
+      "label": "Ministro de Trabajo 80'-82'",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e115",
+      "source": "n80",
+      "target": "n79",
+      "label": "Amiga",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e116",
+      "source": "n17",
+      "target": "n40",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e117",
+      "source": "n102",
+      "target": "n137",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e118",
+      "source": "n182",
+      "target": "n40",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e119",
+      "source": "n154",
+      "target": "n121",
+      "label": "Due\u00f1os",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e120",
+      "source": "n24",
+      "target": "n40",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e121",
+      "source": "n144",
+      "target": "n106",
+      "label": "Due\u00f1os",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e122",
+      "source": "n151",
+      "target": "n160",
+      "label": "Direcci\u00f3n y $$$",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e123",
+      "source": "n175",
+      "target": "n196",
+      "label": "Investigador de informaci\u00f3n para causar pol\u00e9mica, ataques personales",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e124",
+      "source": "n160",
+      "target": "n121",
+      "label": "",
+      "color": "#00a2e8",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e125",
+      "source": "n77",
+      "target": "n88",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e126",
+      "source": "n193",
+      "target": "n137",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e127",
+      "source": "n125",
+      "target": "n148",
+      "label": "Embajador en Argentina 84'-87'",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e128",
+      "source": "n33",
+      "target": "n111",
+      "label": "Se integra representado po su hermano el 11 de octubre de 2006",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e129",
+      "source": "n138",
+      "target": "n106",
+      "label": "",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e130",
+      "source": "n77",
+      "target": "n3",
+      "label": "Pol\u00edticas P\u00fablicas",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e131",
+      "source": "n138",
+      "target": "n112",
+      "label": "Inversiones",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e132",
+      "source": "n148",
+      "target": "n129",
+      "label": "Venta de empresas estatales a precio amigo (para amigos)",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e133",
+      "source": "n172",
+      "target": "n107",
+      "label": "Esposa",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e134",
+      "source": "n186",
+      "target": "n101",
+      "label": "Due\u00f1os",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e135",
+      "source": "n166",
+      "target": "n155",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e136",
+      "source": "n113",
+      "target": "n66",
+      "label": "70 Millones desde el Congreso por \"asesor\u00edas\" en 2024",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e137",
+      "source": "n107",
+      "target": "n182",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e138",
+      "source": "n33",
+      "target": "n77",
+      "label": "Apoyo en candidatura a diputada",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e139",
+      "source": "n148",
+      "target": "n179",
+      "label": "Hija",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e140",
+      "source": "n122",
+      "target": "n196",
+      "label": "Gesti\u00f3n y coordinaci\u00f3n",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e141",
+      "source": "n186",
+      "target": "n102",
+      "label": "Due\u00f1os",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e142",
+      "source": "n157",
+      "target": "n179",
+      "label": "Esposa",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e143",
+      "source": "n143",
+      "target": "n37",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e144",
+      "source": "n3",
+      "target": "n187",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e145",
+      "source": "n125",
+      "target": "n114",
+      "label": "Hijo",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 2
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e146",
+      "source": "n136",
+      "target": "n122",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e147",
+      "source": "n166",
+      "target": "n138",
+      "label": "El Ladrillo",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e148",
+      "source": "n33",
+      "target": "n126",
+      "label": "Esposa",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e149",
+      "source": "n162",
+      "target": "n187",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e150",
+      "source": "n54",
+      "target": "n134",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e151",
+      "source": "n197",
+      "target": "n163",
+      "label": "Publicidad",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e152",
+      "source": "n162",
+      "target": "n3",
+      "label": "Derecho",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e153",
+      "source": "n178",
+      "target": "n131",
+      "label": "Colusi\u00f3n Pollos",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e154",
+      "source": "n33",
+      "target": "n103",
+      "label": "Due\u00f1o",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e155",
+      "source": "n74",
+      "target": "n137",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e156",
+      "source": "n162",
+      "target": "n113",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e157",
+      "source": "n139",
+      "target": "n145",
+      "label": "Due\u00f1os",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e158",
+      "source": "n162",
+      "target": "n66",
+      "label": "Director",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e159",
+      "source": "n2",
+      "target": "n137",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e160",
+      "source": "n127",
+      "target": "n139",
+      "label": "Presidente",
+      "color": "#00a2e8",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e161",
+      "source": "n144",
+      "target": "n128",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e162",
+      "source": "n1",
+      "target": "n137",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e163",
+      "source": "n123",
+      "target": "n196",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e164",
+      "source": "n85",
+      "target": "n151",
+      "label": "",
+      "color": "#000000",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e165",
+      "source": "n189",
+      "target": "n103",
+      "label": "Fundador",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e166",
+      "source": "n127",
+      "target": "n145",
+      "label": "Presidente hasta 2014",
+      "color": "#00a2e8",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e167",
+      "source": "n138",
+      "target": "n168",
+      "label": "Inversiones",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e168",
+      "source": "n138",
+      "target": "n25",
+      "label": "Inversiones",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e169",
+      "source": "n92",
+      "target": "n123",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e170",
+      "source": "n186",
+      "target": "n135",
+      "label": "Fallecido en 2017",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e171",
+      "source": "n10",
+      "target": "n138",
+      "label": "Constituci\u00f3n 1980",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e172",
+      "source": "n33",
+      "target": "n140",
+      "label": "Hermano",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e173",
+      "source": "n129",
+      "target": "n36",
+      "label": "Ex Due\u00f1o",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e174",
+      "source": "n42",
+      "target": "n137",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e175",
+      "source": "n125",
+      "target": "n193",
+      "label": "Director 78'-82'",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e176",
+      "source": "n126",
+      "target": "n165",
+      "label": "Directiva",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e177",
+      "source": "n124",
+      "target": "n132",
+      "label": "Profesor",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e178",
+      "source": "n51",
+      "target": "n116",
+      "label": "Senior Fellow",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e179",
+      "source": "n147",
+      "target": "n165",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e180",
+      "source": "n100",
+      "target": "n196",
+      "label": "Reclutamiento en RRSS",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e181",
+      "source": "n126",
+      "target": "n147",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e182",
+      "source": "n124",
+      "target": "n167",
+      "label": "Miembro",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e183",
+      "source": "n51",
+      "target": "n200",
+      "label": "Directora actual",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e184",
+      "source": "n39",
+      "target": "n2",
+      "label": "Due\u00f1os",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e185",
+      "source": "n156",
+      "target": "n64",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e186",
+      "source": "n181",
+      "target": "n66",
+      "label": "Presidente",
+      "color": "#318a86",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e187",
+      "source": "n41",
+      "target": "n195",
+      "label": "",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 4
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e188",
+      "source": "n38",
+      "target": "n4",
+      "label": "Ex Presidente",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e189",
+      "source": "n144",
+      "target": "n195",
+      "label": "",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 4
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e190",
+      "source": "n39",
+      "target": "n1",
+      "label": "Due\u00f1os",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e191",
+      "source": "n41",
+      "target": "n25",
+      "label": "Due\u00f1os",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e192",
+      "source": "n121",
+      "target": "n137",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e193",
+      "source": "n133",
+      "target": "n64",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e194",
+      "source": "n140",
+      "target": "n103",
+      "label": "Due\u00f1o",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e195",
+      "source": "n33",
+      "target": "n147",
+      "label": "Familia Kast due\u00f1a (99.5%)",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e196",
+      "source": "n41",
+      "target": "n168",
+      "label": "Due\u00f1os",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e197",
+      "source": "n112",
+      "target": "n48",
+      "label": "Director hasta 2022",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e198",
+      "source": "n161",
+      "target": "n64",
+      "label": "Influencia organizaci\u00f3n y re\u00fane pol\u00edticos conservadores",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e199",
+      "source": "n143",
+      "target": "n195",
+      "label": "",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 4
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e200",
+      "source": "n67",
+      "target": "n74",
+      "label": "Due\u00f1o",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 2
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e201",
+      "source": "n85",
+      "target": "n27",
+      "label": "Due\u00f1os",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e202",
+      "source": "n108",
+      "target": "n169",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e203",
+      "source": "n194",
+      "target": "n166",
+      "label": "Mentor",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e204",
+      "source": "n181",
+      "target": "n3",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e205",
+      "source": "n35",
+      "target": "n175",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e206",
+      "source": "n51",
+      "target": "n3",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e207",
+      "source": "n140",
+      "target": "n111",
+      "label": "",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e208",
+      "source": "n36",
+      "target": "n48",
+      "label": "Director hasta 2016 (Caso SQM)",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e209",
+      "source": "n95",
+      "target": "n196",
+      "label": "",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e210",
+      "source": "n199",
+      "target": "n195",
+      "label": "",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 4
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e211",
+      "source": "n26",
+      "target": "n196",
+      "label": "Videos con IA, memes, masificaci\u00f3in del odio",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e212",
+      "source": "n33",
+      "target": "n156",
+      "label": "Exposici\u00f3n del \"modelo chileno de revoluci\u00f3n conservadora\"",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e213",
+      "source": "n38",
+      "target": "n192",
+      "label": "Director Ejecutivo",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e214",
+      "source": "n85",
+      "target": "n195",
+      "label": "",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 4
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e215",
+      "source": "n85",
+      "target": "n22",
+      "label": "Due\u00f1os",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e216",
+      "source": "n186",
+      "target": "n58",
+      "label": "Ex due\u00f1os",
+      "color": "#7f7f7f",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e217",
+      "source": "n155",
+      "target": "n187",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e218",
+      "source": "n76",
+      "target": "n160",
+      "label": "Director por 31 a\u00f1os",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 3
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e219",
+      "source": "n10",
+      "target": "n187",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e220",
+      "source": "n8",
+      "target": "n137",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e221",
+      "source": "n85",
+      "target": "n23",
+      "label": "Due\u00f1os",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e222",
+      "source": "n100",
+      "target": "n169",
+      "label": "Hostigamiento en marchas, destrucci\u00f3n de arte",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e223",
+      "source": "n186",
+      "target": "n193",
+      "label": "Due\u00f1os",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e224",
+      "source": "n11",
+      "target": "n132",
+      "label": "Profesor",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e225",
+      "source": "n0",
+      "target": "n121",
+      "label": "Trabajo anterior a t13",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e226",
+      "source": "n38",
+      "target": "n3",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e227",
+      "source": "n38",
+      "target": "n34",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e228",
+      "source": "n194",
+      "target": "n132",
+      "label": "Profesor",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e229",
+      "source": "n48",
+      "target": "n8",
+      "label": "Financiamento",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e230",
+      "source": "n160",
+      "target": "n1",
+      "label": "",
+      "color": "#00a2e8",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e231",
+      "source": "n191",
+      "target": "n167",
+      "label": "Fundador (1947)",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e232",
+      "source": "n33",
+      "target": "n0",
+      "label": "Pituto en T13",
+      "color": "#ff7f27",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e233",
+      "source": "n24",
+      "target": "n196",
+      "label": "Memes, discurso de odio, referente de otras personas en el c\u00edrculo",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e234",
+      "source": "n181",
+      "target": "n113",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e235",
+      "source": "n160",
+      "target": "n2",
+      "label": "",
+      "color": "#00a2e8",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e236",
+      "source": "n199",
+      "target": "n67",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e237",
+      "source": "n76",
+      "target": "n114",
+      "label": "hermanos",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e238",
+      "source": "n116",
+      "target": "n66",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e239",
+      "source": "n194",
+      "target": "n167",
+      "label": "Cercano",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e240",
+      "source": "n33",
+      "target": "n66",
+      "label": "Ex Miembro del directorio",
+      "color": "#318a86",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e241",
+      "source": "n49",
+      "target": "n33",
+      "label": "Asesora de Seguridad (Pituto en T13)",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e242",
+      "source": "n82",
+      "target": "n200",
+      "label": "Ex directora ejecutiva",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e243",
+      "source": "n157",
+      "target": "n36",
+      "label": "Due\u00f1o (Caso Cascadas)",
+      "color": "#7e1b1b",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e244",
+      "source": "n170",
+      "target": "n125",
+      "label": "Mano derecha",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e245",
+      "source": "n44",
+      "target": "n167",
+      "label": "Miembro",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e246",
+      "source": "n107",
+      "target": "n72",
+      "label": "Reside entre el extranjero y Chile",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e247",
+      "source": "n0",
+      "target": "n74",
+      "label": "Pituto",
+      "color": "#c7672a",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e248",
+      "source": "n44",
+      "target": "n116",
+      "label": "Fundador (1981)",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e249",
+      "source": "n10",
+      "target": "n3",
+      "label": "Profesor de derecho",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e250",
+      "source": "n49",
+      "target": "n74",
+      "label": "Pituto",
+      "color": "#ff7f27",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e251",
+      "source": "n136",
+      "target": "n47",
+      "label": "Jefe de Comunicaciones (2011)",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e252",
+      "source": "n125",
+      "target": "n76",
+      "label": "",
+      "color": "#7f7f7f",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e253",
+      "source": "n120",
+      "target": "n39",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e254",
+      "source": "n136",
+      "target": "n42",
+      "label": "Editor de prensa (previo a T13)",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e255",
+      "source": "n114",
+      "target": "n45",
+      "label": "Independientes-RN-Ev\u00f3poli",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e256",
+      "source": "n37",
+      "target": "n104",
+      "label": "",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e257",
+      "source": "n11",
+      "target": "n167",
+      "label": "Miembro",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e258",
+      "source": "n104",
+      "target": "n8",
+      "label": "Columnistas",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e259",
+      "source": "n139",
+      "target": "n83",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e260",
+      "source": "n184",
+      "target": "n148",
+      "label": "Ministro de Hacienda 75'-82'",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e261",
+      "source": "n104",
+      "target": "n57",
+      "label": "Entrenamiento para pol\u00edtica",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e262",
+      "source": "n139",
+      "target": "n87",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e263",
+      "source": "n69",
+      "target": "n33",
+      "label": "Comando (Posible Ministro de Vivienda)",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e264",
+      "source": "n143",
+      "target": "n152",
+      "label": "Due\u00f1os",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e265",
+      "source": "n57",
+      "target": "n116",
+      "label": "Seleccionado para promover las ideas en charlas internacionales",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e266",
+      "source": "n142",
+      "target": "n138",
+      "label": "CREACI\u00d3N DE LAS AFP - DECRETO LEY N\u00b0 3.500 (1980)",
+      "color": "#00a2e8",
+      "style": "solid",
+      "width": 2
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e267",
+      "source": "n24",
+      "target": "n182",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e268",
+      "source": "n86",
+      "target": "n187",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e269",
+      "source": "n59",
+      "target": "n197",
+      "label": "Presidente",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e270",
+      "source": "n77",
+      "target": "n69",
+      "label": "La TV Metro y Agricultura",
+      "color": "#7e1b1b",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e271",
+      "source": "n142",
+      "target": "n148",
+      "label": "Ministro de Trabajo y Previsi\u00f3n Social 78'-80'",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e272",
+      "source": "n27",
+      "target": "n149",
+      "label": "Colusi\u00f3n",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e273",
+      "source": "n12",
+      "target": "n167",
+      "label": "Ideolog\u00eda",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e274",
+      "source": "n130",
+      "target": "n78",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e275",
+      "source": "n142",
+      "target": "n94",
+      "label": "Hermano",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e276",
+      "source": "n138",
+      "target": "n23",
+      "label": "Inversiones",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e277",
+      "source": "n158",
+      "target": "n78",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e278",
+      "source": "n160",
+      "target": "n74",
+      "label": "",
+      "color": "#00a2e8",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e279",
+      "source": "n190",
+      "target": "n8",
+      "label": "Financia",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e280",
+      "source": "n86",
+      "target": "n113",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e281",
+      "source": "n146",
+      "target": "n193",
+      "label": "Asesor 63'-70'. Presidente 73'-74'",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e282",
+      "source": "n86",
+      "target": "n3",
+      "label": "Ingeniero Comercial",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e283",
+      "source": "n160",
+      "target": "n42",
+      "label": "",
+      "color": "#00a2e8",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e284",
+      "source": "n10",
+      "target": "n113",
+      "label": "Fundador",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e285",
+      "source": "n146",
+      "target": "n148",
+      "label": "Ministro Relaciones Exteriores 78'-80'",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e286",
+      "source": "n12",
+      "target": "n187",
+      "label": "Influencia",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e287",
+      "source": "n138",
+      "target": "n27",
+      "label": "Inversiones",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e288",
+      "source": "n138",
+      "target": "n22",
+      "label": "Inversiones",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e289",
+      "source": "n69",
+      "target": "n38",
+      "label": "Compa\u00f1eros en Agricultura",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e290",
+      "source": "n32",
+      "target": "n104",
+      "label": "Fundador y financista",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e291",
+      "source": "n130",
+      "target": "n108",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e292",
+      "source": "n197",
+      "target": "n153",
+      "label": "Pagos",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e293",
+      "source": "n158",
+      "target": "n100",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e294",
+      "source": "n158",
+      "target": "n108",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e295",
+      "source": "n94",
+      "target": "n109",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e296",
+      "source": "n153",
+      "target": "n163",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e297",
+      "source": "n141",
+      "target": "n196",
+      "label": "",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e298",
+      "source": "n7",
+      "target": "n99",
+      "label": "Programa Radio",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e299",
+      "source": "n164",
+      "target": "n132",
+      "label": "Master of Arts 78'-80'",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e300",
+      "source": "n138",
+      "target": "n63",
+      "label": "Inversiones",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e301",
+      "source": "n160",
+      "target": "n102",
+      "label": "",
+      "color": "#00a2e8",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e302",
+      "source": "n33",
+      "target": "n113",
+      "label": "Militante 1996-2016",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e303",
+      "source": "n187",
+      "target": "n113",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e304",
+      "source": "n117",
+      "target": "n115",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e305",
+      "source": "n146",
+      "target": "n82",
+      "label": "Padre",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e306",
+      "source": "n184",
+      "target": "n3",
+      "label": "Decano Facultad Econom\u00eda 65'-68'",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e307",
+      "source": "n117",
+      "target": "n159",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e308",
+      "source": "n129",
+      "target": "n119",
+      "label": "Ex Due\u00f1o",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e309",
+      "source": "n97",
+      "target": "n82",
+      "label": "Entrenamiento para pol\u00edtica",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e310",
+      "source": "n164",
+      "target": "n200",
+      "label": "Fundador 1990",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e311",
+      "source": "n114",
+      "target": "n197",
+      "label": "L\u00edder",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e312",
+      "source": "n16",
+      "target": "n33",
+      "label": "Vocera Comando Jos\u00e9 Antonio Kast",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e313",
+      "source": "n150",
+      "target": "n53",
+      "label": "Fundador",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e314",
+      "source": "n13",
+      "target": "n196",
+      "label": "Coordinaci\u00f3n con trolls",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e315",
+      "source": "n148",
+      "target": "n157",
+      "label": "Yerno",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e316",
+      "source": "n91",
+      "target": "n197",
+      "label": "Propaganda y publicidad a favor de las AFP en RRSS",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e317",
+      "source": "n86",
+      "target": "n66",
+      "label": "$37 Mill. desde Mun. de las Condes (2016-2017)",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e318",
+      "source": "n57",
+      "target": "n130",
+      "label": "Influencia ideol\u00f3gica",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e319",
+      "source": "n18",
+      "target": "n66",
+      "label": "$4.9 Millones de pesos siendo Vocero de Gobierno 2020",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e320",
+      "source": "n164",
+      "target": "n187",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e321",
+      "source": "n110",
+      "target": "n4",
+      "label": "Ex Presidente",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e322",
+      "source": "n150",
+      "target": "n167",
+      "label": "Ex Presidente",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e323",
+      "source": "n130",
+      "target": "n158",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e324",
+      "source": "n26",
+      "target": "n141",
+      "label": "Conduce en X un programa tipo radial para compartir discursos de odio y planear propaganda",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e325",
+      "source": "n94",
+      "target": "n3",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e326",
+      "source": "n130",
+      "target": "n158",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e327",
+      "source": "n110",
+      "target": "n88",
+      "label": "Vicepresidente",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e328",
+      "source": "n190",
+      "target": "n149",
+      "label": "Ex Due\u00f1o",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e329",
+      "source": "n166",
+      "target": "n142",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e330",
+      "source": "n143",
+      "target": "n63",
+      "label": "Ex due\u00f1os",
+      "color": "#7f7f7f",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e331",
+      "source": "n97",
+      "target": "n29",
+      "label": "Entrenamiento para pol\u00edtica",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e332",
+      "source": "n160",
+      "target": "n193",
+      "label": "Informaci\u00f3n a difundir",
+      "color": "#00a2e8",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e333",
+      "source": "n162",
+      "target": "n59",
+      "label": "T\u00edo",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e334",
+      "source": "n138",
+      "target": "n36",
+      "label": "Inversiones",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e335",
+      "source": "n46",
+      "target": "n3",
+      "label": "Docentes",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e336",
+      "source": "n29",
+      "target": "n45",
+      "label": "Creador",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e337",
+      "source": "n36",
+      "target": "n160",
+      "label": "Contratos",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e338",
+      "source": "n14",
+      "target": "n185",
+      "label": "",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e339",
+      "source": "n116",
+      "target": "n160",
+      "label": "Asesora",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e340",
+      "source": "n14",
+      "target": "n176",
+      "label": "",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e341",
+      "source": "n162",
+      "target": "n132",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e342",
+      "source": "n14",
+      "target": "n173",
+      "label": "",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e343",
+      "source": "n46",
+      "target": "n6",
+      "label": "Investigadores",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e344",
+      "source": "n36",
+      "target": "n200",
+      "label": "Contratos",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e345",
+      "source": "n18",
+      "target": "n132",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e346",
+      "source": "n21",
+      "target": "n45",
+      "label": "Comando Felipe Kast 2017",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e347",
+      "source": "n170",
+      "target": "n160",
+      "label": "Fundador 1980",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e348",
+      "source": "n58",
+      "target": "n48",
+      "label": "Director",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e349",
+      "source": "n14",
+      "target": "n31",
+      "label": "",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e350",
+      "source": "n171",
+      "target": "n132",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e351",
+      "source": "n41",
+      "target": "n160",
+      "label": "Miembro en el CEP",
+      "color": "#ffe100",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e352",
+      "source": "n118",
+      "target": "n160",
+      "label": "Miembro en el cep",
+      "color": "#ffe100",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e353",
+      "source": "n163",
+      "target": "n196",
+      "label": "",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e354",
+      "source": "n135",
+      "target": "n46",
+      "label": "Recluta",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e355",
+      "source": "n61",
+      "target": "n62",
+      "label": "Due\u00f1o 65,9%",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e356",
+      "source": "n16",
+      "target": "n38",
+      "label": "Compa\u00f1eros",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e357",
+      "source": "n3",
+      "target": "n164",
+      "label": "Ingeniero Comercial (FEUC 74'-75')",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e358",
+      "source": "n18",
+      "target": "n113",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e359",
+      "source": "n102",
+      "target": "n135",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e360",
+      "source": "n183",
+      "target": "n179",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e361",
+      "source": "n21",
+      "target": "n91",
+      "label": "Due\u00f1o",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e362",
+      "source": "n61",
+      "target": "n58",
+      "label": "Due\u00f1o 51,2%",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e363",
+      "source": "n65",
+      "target": "n33",
+      "label": "Redacci\u00f3n Programa de Gobierno Kast 2021",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e364",
+      "source": "n160",
+      "target": "n104",
+      "label": "Estudios sobre la poblaci\u00f3n",
+      "color": "#00a2e8",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e365",
+      "source": "n183",
+      "target": "n157",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e366",
+      "source": "n48",
+      "target": "n200",
+      "label": "Fundador 1990",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e367",
+      "source": "n138",
+      "target": "n91",
+      "label": "Dinero de las AFP",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e368",
+      "source": "n183",
+      "target": "n174",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e369",
+      "source": "n114",
+      "target": "n20",
+      "label": "Trabajo en Fundaci\u00f3n",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e370",
+      "source": "n16",
+      "target": "n7",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e371",
+      "source": "n180",
+      "target": "n26",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e372",
+      "source": "n6",
+      "target": "n166",
+      "label": "Conforma",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e373",
+      "source": "n148",
+      "target": "n174",
+      "label": "Hija",
+      "color": "#888888",
+      "style": "dashed",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e374",
+      "source": "n16",
+      "target": "n104",
+      "label": "Directora de Asuntos P\u00fablicos (hasta 09/25)",
+      "color": "#ab2424",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e375",
+      "source": "n50",
+      "target": "n160",
+      "label": "$$$$",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e376",
+      "source": "n18",
+      "target": "n3",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e377",
+      "source": "n136",
+      "target": "n21",
+      "label": "Trato entre AAFP y Artool desde 2018",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e378",
+      "source": "n138",
+      "target": "n58",
+      "label": "Inversiones",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 3
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e379",
+      "source": "n53",
+      "target": "n116",
+      "label": "Ecosistema",
+      "color": "#a349a4",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e380",
+      "source": "n166",
+      "target": "n184",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e381",
+      "source": "n32",
+      "target": "n188",
+      "label": "Ex Due\u00f1o",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e382",
+      "source": "n170",
+      "target": "n3",
+      "label": "Director del Instituto de Econom\u00eda 70'-72'",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e383",
+      "source": "n172",
+      "target": "n24",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e384",
+      "source": "n171",
+      "target": "n3",
+      "label": "Ing Civil Industrial",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e385",
+      "source": "n198",
+      "target": "n15",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e386",
+      "source": "n171",
+      "target": "n113",
+      "label": "",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e387",
+      "source": "n14",
+      "target": "n30",
+      "label": "",
+      "color": "#f51c24",
+      "style": "solid",
+      "width": 1
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e388",
+      "source": "n138",
+      "target": "n62",
+      "label": "Inversiones",
+      "color": "#22b14c",
+      "style": "solid",
+      "width": 3
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "e389",
+      "source": "n170",
+      "target": "n148",
+      "label": "Ministro de Hacienda 74'-76'",
+      "color": "#888888",
+      "style": "solid",
+      "width": 1
+    }
+  }
+]

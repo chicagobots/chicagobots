@@ -1,0 +1,2541 @@
+{
+  "nodes": [
+    {
+      "id": "n0",
+      "label": "Leadership Institute Chile",
+      "group": "Company",
+      "fx": 2357.0,
+      "fy": -4050.0
+    },
+    {
+      "id": "n1",
+      "label": "La Tercera",
+      "group": "Company",
+      "fx": 1758.0,
+      "fy": -3765.0
+    },
+    {
+      "id": "n2",
+      "label": "La Cuarta",
+      "group": "Company",
+      "fx": 1560.0,
+      "fy": -3609.0
+    },
+    {
+      "id": "n3",
+      "label": "Pontificia Universidad Católica",
+      "group": "EducationInstitution",
+      "fx": 2840.0,
+      "fy": -3511.0
+    },
+    {
+      "id": "n4",
+      "label": "Fundación ChileSiempre",
+      "group": "Company",
+      "fx": 2698.0,
+      "fy": -4377.0
+    },
+    {
+      "id": "n5",
+      "label": "Edgardo Sepúlveda",
+      "group": "Person",
+      "fx": 2228.0,
+      "fy": -2663.0
+    },
+    {
+      "id": "n6",
+      "label": "Sociedad Matriz SAAM",
+      "group": "Industry",
+      "fx": 1286.0,
+      "fy": -2685.0
+    },
+    {
+      "id": "n7",
+      "label": "CESEC",
+      "group": "EducationInstitution",
+      "fx": 2601.0,
+      "fy": -2650.0
+    },
+    {
+      "id": "n8",
+      "label": "Legión Zorro",
+      "group": "Gang",
+      "fx": 2816.0,
+      "fy": -4890.0
+    },
+    {
+      "id": "n9",
+      "label": "La Segunda",
+      "group": "Company",
+      "fx": 2051.0,
+      "fy": -2250.0
+    },
+    {
+      "id": "n10",
+      "label": "Radio Agricultura",
+      "group": "Company",
+      "fx": 2167.0,
+      "fy": -3979.0
+    },
+    {
+      "id": "n11",
+      "label": "Emol",
+      "group": "Company",
+      "fx": 1804.0,
+      "fy": -3193.0
+    },
+    {
+      "id": "n12",
+      "label": "El Líbero",
+      "group": "Company",
+      "fx": 2408.0,
+      "fy": -2731.0
+    },
+    {
+      "id": "n13",
+      "label": "Fundación Para el Progreso",
+      "group": "Company",
+      "fx": 2706.0,
+      "fy": -3199.0
+    },
+    {
+      "id": "n14",
+      "label": "Ciudadano Austral",
+      "group": "Company",
+      "fx": 2928.0,
+      "fy": -4029.0
+    },
+    {
+      "id": "n15",
+      "label": "Jaime Guzmán",
+      "group": "Person",
+      "fx": 2227.0,
+      "fy": -3362.0
+    },
+    {
+      "id": "n16",
+      "label": "ETC",
+      "group": "Company",
+      "fx": 465.0,
+      "fy": -3183.0
+    },
+    {
+      "id": "n17",
+      "label": "BCI",
+      "group": "Industry",
+      "fx": 1302.0,
+      "fy": -3340.0
+    },
+    {
+      "id": "n18",
+      "label": "Escuela de Chicago",
+      "group": "PoliticalMovement",
+      "fx": 3047.0,
+      "fy": -2970.0
+    },
+    {
+      "id": "n19",
+      "label": "@Ipoduje",
+      "group": "OnlineGroup",
+      "fx": 3680.0,
+      "fy": -3332.0
+    },
+    {
+      "id": "n20",
+      "label": "Jenny Pamela Olivárez Asencio",
+      "group": "Person",
+      "fx": 1928.0,
+      "fy": -6180.0
+    },
+    {
+      "id": "n21",
+      "label": "Bethia",
+      "group": "Industry",
+      "fx": 820.0,
+      "fy": -3391.0
+    },
+    {
+      "id": "n22",
+      "label": "La Vanguardia",
+      "group": "Gang",
+      "fx": 3367.0,
+      "fy": -4675.0
+    },
+    {
+      "id": "n23",
+      "label": "@DRESTRUM__Pl",
+      "group": "OnlineGroup",
+      "fx": 1994.0,
+      "fy": -5289.0
+    },
+    {
+      "id": "n24",
+      "label": "Mara Sedini",
+      "group": "Person",
+      "fx": 2401.0,
+      "fy": -3679.0
+    },
+    {
+      "id": "n25",
+      "label": "TOKY (@canserbero73)",
+      "group": "OnlineGroup",
+      "fx": 2344.0,
+      "fy": -5420.0
+    },
+    {
+      "id": "n26",
+      "label": "Jaime Bellolio",
+      "group": "Person",
+      "fx": 3080.0,
+      "fy": -3438.0
+    },
+    {
+      "id": "n27",
+      "label": "Falabella",
+      "group": "Industry",
+      "fx": 1640.0,
+      "fy": -2985.0
+    },
+    {
+      "id": "n28",
+      "label": "Jorge Selume",
+      "group": "Person",
+      "fx": 1666.0,
+      "fy": -4095.0
+    },
+    {
+      "id": "n29",
+      "label": "UDI",
+      "group": "Company",
+      "fx": 2761.0,
+      "fy": -3667.0
+    },
+    {
+      "id": "n30",
+      "label": "Colbún",
+      "group": "Industry",
+      "fx": 1646.0,
+      "fy": -2645.0
+    },
+    {
+      "id": "n31",
+      "label": "Bice",
+      "group": "Industry",
+      "fx": 1666.0,
+      "fy": -2829.0
+    },
+    {
+      "id": "n32",
+      "label": "@Meruanista",
+      "group": "OnlineGroup",
+      "fx": 2159.0,
+      "fy": -5542.0
+    },
+    {
+      "id": "n33",
+      "label": "Arauco",
+      "group": "Industry",
+      "fx": 1203.0,
+      "fy": -3153.0
+    },
+    {
+      "id": "n34",
+      "label": "Bernardo Fontaine",
+      "group": "Person",
+      "fx": 2041.0,
+      "fy": -3823.0
+    },
+    {
+      "id": "n35",
+      "label": "@ClintJoselito",
+      "group": "OnlineGroup",
+      "fx": 1814.0,
+      "fy": -5140.0
+    },
+    {
+      "id": "n36",
+      "label": "El Capi @CapiLevi",
+      "group": "OnlineGroup",
+      "fx": 2316.0,
+      "fy": -5255.0
+    },
+    {
+      "id": "n37",
+      "label": "Atlas Network",
+      "group": "Organization",
+      "fx": 2581.0,
+      "fy": -3738.0
+    },
+    {
+      "id": "n38",
+      "label": "CMPC",
+      "group": "Industry",
+      "fx": 1843.0,
+      "fy": -2517.0
+    },
+    {
+      "id": "n39",
+      "label": "Felipe Kast",
+      "group": "Person",
+      "fx": 2221.0,
+      "fy": -3733.0
+    },
+    {
+      "id": "n40",
+      "label": "Francisco Bustos Jara",
+      "group": "Person",
+      "fx": 2599.0,
+      "fy": -5475.0
+    },
+    {
+      "id": "n41",
+      "label": "Radio Disney",
+      "group": "Company",
+      "fx": 597.0,
+      "fy": -3027.0
+    },
+    {
+      "id": "n42",
+      "label": "Keith R Hobbs",
+      "group": "Person",
+      "fx": 4158.0,
+      "fy": -1455.0
+    },
+    {
+      "id": "n43",
+      "label": "Solari",
+      "group": "Gang",
+      "fx": 1023.0,
+      "fy": -3121.0
+    },
+    {
+      "id": "n44",
+      "label": "FM Tiempo",
+      "group": "Company",
+      "fx": 627.0,
+      "fy": -3701.0
+    },
+    {
+      "id": "n45",
+      "label": "Saieh",
+      "group": "Gang",
+      "fx": 1002.0,
+      "fy": -4036.0
+    },
+    {
+      "id": "n46",
+      "label": "Nicolás Ibáñez",
+      "group": "Person",
+      "fx": 3022.0,
+      "fy": -2812.0
+    },
+    {
+      "id": "n47",
+      "label": "@Patitoo_Verde",
+      "group": "OnlineGroup",
+      "fx": 1970.0,
+      "fy": -4449.0
+    },
+    {
+      "id": "n48",
+      "label": "José Kast (Candidato actual)",
+      "group": "Person",
+      "fx": 2475.0,
+      "fy": -3894.0
+    },
+    {
+      "id": "n49",
+      "label": "Reclutamiento \"Batalla Cultural\"",
+      "group": "AttackPattern",
+      "fx": 2633.0,
+      "fy": -4612.0
+    },
+    {
+      "id": "n50",
+      "label": "@Josefcolagos",
+      "group": "OnlineGroup",
+      "fx": 2417.0,
+      "fy": -4462.0
+    },
+    {
+      "id": "n51",
+      "label": "Ricardo Matias Inaiman Barrios",
+      "group": "Person",
+      "fx": 2945.0,
+      "fy": -5396.0
+    },
+    {
+      "id": "n52",
+      "label": "SQM",
+      "group": "Industry",
+      "fx": 2085.0,
+      "fy": -2507.0
+    },
+    {
+      "id": "n53",
+      "label": "Arturo Fontaine Aldunate",
+      "group": "Person",
+      "fx": 2041.0,
+      "fy": -3367.0
+    },
+    {
+      "id": "n54",
+      "label": "José Antonio Guzmán",
+      "group": "Person",
+      "fx": 2579.0,
+      "fy": -2177.0
+    },
+    {
+      "id": "n55",
+      "label": "Padre Militar",
+      "group": "Person",
+      "fx": 1183.0,
+      "fy": -5563.0
+    },
+    {
+      "id": "n56",
+      "label": "Sebastián Izquierdo",
+      "group": "Person",
+      "fx": 3358.0,
+      "fy": -4321.0
+    },
+    {
+      "id": "n57",
+      "label": "Salcobrand",
+      "group": "Company",
+      "fx": 1486.0,
+      "fy": -3994.0
+    },
+    {
+      "id": "n58",
+      "label": "Asoc. de Productores Avícolas",
+      "group": "Company",
+      "fx": 1692.0,
+      "fy": -4455.0
+    },
+    {
+      "id": "n59",
+      "label": "Universidad de Chicago",
+      "group": "EducationInstitution",
+      "fx": 3039.0,
+      "fy": -3126.0
+    },
+    {
+      "id": "n60",
+      "label": "Dag Von Appen",
+      "group": "Person",
+      "fx": 2210.0,
+      "fy": -2891.0
+    },
+    {
+      "id": "n61",
+      "label": "José Francisco Lagos",
+      "group": "Person",
+      "fx": 2548.0,
+      "fy": -4057.0
+    },
+    {
+      "id": "n62",
+      "label": "El Nacional Libertario",
+      "group": "OnlineGroup",
+      "fx": 3979.0,
+      "fy": -3726.0
+    },
+    {
+      "id": "n63",
+      "label": "CorpGroup ",
+      "group": "Industry",
+      "fx": 1290.0,
+      "fy": -3859.0
+    },
+    {
+      "id": "n64",
+      "label": "Agustín Edwards",
+      "group": "Person",
+      "fx": 2523.0,
+      "fy": -2414.0
+    },
+    {
+      "id": "n65",
+      "label": "Promoción de cuentas en X",
+      "group": "AttackPattern",
+      "fx": 2388.0,
+      "fy": -5870.0
+    },
+    {
+      "id": "n66",
+      "label": "Angelini",
+      "group": "Gang",
+      "fx": 1046.0,
+      "fy": -2944.0
+    },
+    {
+      "id": "n67",
+      "label": "Patricio Góngora",
+      "group": "Person",
+      "fx": 1782.0,
+      "fy": -3921.0
+    },
+    {
+      "id": "n68",
+      "label": "Mega",
+      "group": "Company",
+      "fx": 1361.0,
+      "fy": -3496.0
+    },
+    {
+      "id": "n69",
+      "label": "@lobofacho",
+      "group": "OnlineGroup",
+      "fx": 2115.0,
+      "fy": -5133.0
+    },
+    {
+      "id": "n70",
+      "label": "Clima de temor e inseguridad",
+      "group": "AttackPattern",
+      "fx": 1976.0,
+      "fy": -3661.0
+    },
+    {
+      "id": "n71",
+      "label": "AFP",
+      "group": "Industry",
+      "fx": 1589.0,
+      "fy": -3141.0
+    },
+    {
+      "id": "n72",
+      "label": "Cámara Chilena de la Construcción",
+      "group": "Industry",
+      "fx": 2700.0,
+      "fy": -1799.0
+    },
+    {
+      "id": "n73",
+      "label": "José Piñera",
+      "group": "Person",
+      "fx": 1984.0,
+      "fy": -3184.0
+    },
+    {
+      "id": "n74",
+      "label": "Evópoli",
+      "group": "Company",
+      "fx": 1966.0,
+      "fy": -3981.0
+    },
+    {
+      "id": "n75",
+      "label": "\"La Hora de la Marmota\"",
+      "group": "AttackPattern",
+      "fx": 1956.0,
+      "fy": -4970.0
+    },
+    {
+      "id": "n76",
+      "label": "Von Appen",
+      "group": "Gang",
+      "fx": 1826.0,
+      "fy": -2673.0
+    },
+    {
+      "id": "n77",
+      "label": "\"Expertos\" en economía ",
+      "group": "Gang",
+      "fx": 2824.0,
+      "fy": -2807.0
+    },
+    {
+      "id": "n78",
+      "label": "Yarur",
+      "group": "Gang",
+      "fx": 1333.0,
+      "fy": -3652.0
+    },
+    {
+      "id": "n79",
+      "label": "Ministerio de Vivienda",
+      "group": "Company",
+      "fx": 1403.0,
+      "fy": -4150.0
+    },
+    {
+      "id": "n80",
+      "label": "AFP Hábitat",
+      "group": "Company",
+      "fx": 2798.0,
+      "fy": -1987.0
+    },
+    {
+      "id": "n81",
+      "label": "Hernán Büchi",
+      "group": "Person",
+      "fx": 2026.0,
+      "fy": -2872.0
+    },
+    {
+      "id": "n82",
+      "label": "Pinochet (muerto en 2006)",
+      "group": "Person",
+      "fx": 2403.0,
+      "fy": -2887.0
+    },
+    {
+      "id": "n83",
+      "label": "PISA",
+      "group": "Company",
+      "fx": 1865.0,
+      "fy": -2247.0
+    },
+    {
+      "id": "n84",
+      "label": "Patricia Matte",
+      "group": "Person",
+      "fx": 2164.0,
+      "fy": -3206.0
+    },
+    {
+      "id": "n85",
+      "label": "Eliodoro Matte",
+      "group": "Person",
+      "fx": 1594.0,
+      "fy": -3297.0
+    },
+    {
+      "id": "n86",
+      "label": "Ultramar",
+      "group": "Industry",
+      "fx": 1524.0,
+      "fy": -2365.0
+    },
+    {
+      "id": "n87",
+      "label": "Matías Lorca",
+      "group": "Person",
+      "fx": 1555.0,
+      "fy": -4834.0
+    },
+    {
+      "id": "n88",
+      "label": "@KarenKoetje",
+      "group": "OnlineGroup",
+      "fx": 2273.0,
+      "fy": -6285.0
+    },
+    {
+      "id": "n89",
+      "label": "Johannes Kaiser",
+      "group": "Person",
+      "fx": 3588.0,
+      "fy": -3750.0
+    },
+    {
+      "id": "n90",
+      "label": "NN Empresaria en Alemania",
+      "group": "Person",
+      "fx": 2016.0,
+      "fy": -6348.0
+    },
+    {
+      "id": "n91",
+      "label": "Teresa Marinovic",
+      "group": "Person",
+      "fx": 3178.0,
+      "fy": -4340.0
+    },
+    {
+      "id": "n92",
+      "label": "Miguel Kast Rist",
+      "group": "Person",
+      "fx": 2407.0,
+      "fy": -3346.0
+    },
+    {
+      "id": "n93",
+      "label": "Axel Kaiser",
+      "group": "Person",
+      "fx": 3113.0,
+      "fy": -3811.0
+    },
+    {
+      "id": "n94",
+      "label": "Julio Ponce Lerou",
+      "group": "Person",
+      "fx": 2321.0,
+      "fy": -2419.0
+    },
+    {
+      "id": "n95",
+      "label": "Banco de Chile",
+      "group": "Industry",
+      "fx": 1846.0,
+      "fy": -2829.0
+    },
+    {
+      "id": "n96",
+      "label": "Roberto Velmar Vergara",
+      "group": "Person",
+      "fx": 3160.0,
+      "fy": -4735.0
+    },
+    {
+      "id": "n97",
+      "label": "Desconocido",
+      "group": "Country",
+      "fx": 2421.0,
+      "fy": -2575.0
+    },
+    {
+      "id": "n98",
+      "label": "Quiñenco",
+      "group": "Industry",
+      "fx": 1460.0,
+      "fy": -2961.0
+    },
+    {
+      "id": "n99",
+      "label": "CCU",
+      "group": "Industry",
+      "fx": 1280.0,
+      "fy": -2997.0
+    },
+    {
+      "id": "n100",
+      "label": "Vapores",
+      "group": "Industry",
+      "fx": 1466.0,
+      "fy": -2741.0
+    },
+    {
+      "id": "n101",
+      "label": "Ideas Republicanas",
+      "group": "Company",
+      "fx": 2728.0,
+      "fy": -4010.0
+    },
+    {
+      "id": "n102",
+      "label": "Fundación Jaime Guzmán",
+      "group": "Company",
+      "fx": 2859.0,
+      "fy": -3825.0
+    },
+    {
+      "id": "n103",
+      "label": "Francisco de La Diestra ",
+      "group": "OnlineGroup",
+      "fx": 2503.0,
+      "fy": -5210.0
+    },
+    {
+      "id": "n104",
+      "label": "Andrónico Luksic Craig",
+      "group": "Person",
+      "fx": 1131.0,
+      "fy": -3554.0
+    },
+    {
+      "id": "n105",
+      "label": "Centro de Estudios Públicos ",
+      "group": "Company",
+      "fx": 1835.0,
+      "fy": -3349.0
+    },
+    {
+      "id": "n106",
+      "label": "Andrés Chadwick",
+      "group": "Person",
+      "fx": 3049.0,
+      "fy": -3282.0
+    },
+    {
+      "id": "n107",
+      "label": "Iván Poduje",
+      "group": "Person",
+      "fx": 3440.0,
+      "fy": -3535.0
+    },
+    {
+      "id": "n108",
+      "label": "Cristián Larroulet Vignau",
+      "group": "Person",
+      "fx": 2836.0,
+      "fy": -2997.0
+    },
+    {
+      "id": "n109",
+      "label": "El Canal de Mati",
+      "group": "OnlineGroup",
+      "fx": 1876.0,
+      "fy": -4653.0
+    },
+    {
+      "id": "n110",
+      "label": "Francisco Marinovic",
+      "group": "Person",
+      "fx": 3039.0,
+      "fy": -4557.0
+    },
+    {
+      "id": "n111",
+      "label": "Desconocido",
+      "group": "Country",
+      "fx": 1694.0,
+      "fy": -6224.0
+    },
+    {
+      "id": "n112",
+      "label": "Evelyn Matthei",
+      "group": "Person",
+      "fx": 3260.0,
+      "fy": -3465.0
+    },
+    {
+      "id": "n113",
+      "label": "Canal 13",
+      "group": "Company",
+      "fx": 1541.0,
+      "fy": -3453.0
+    },
+    {
+      "id": "n114",
+      "label": "Arturo Fontaine L.",
+      "group": "Person",
+      "fx": 1821.0,
+      "fy": -3505.0
+    },
+    {
+      "id": "n115",
+      "label": "Chicago Boys",
+      "group": "Gang",
+      "fx": 2241.0,
+      "fy": -3047.0
+    },
+    {
+      "id": "n116",
+      "label": "COPEC",
+      "group": "Industry",
+      "fx": 1226.0,
+      "fy": -2841.0
+    },
+    {
+      "id": "n117",
+      "label": "Violentismo",
+      "group": "Incident",
+      "fx": 3236.0,
+      "fy": -4927.0
+    },
+    {
+      "id": "n118",
+      "label": "Jorge Cauas Lama",
+      "group": "Person",
+      "fx": 2587.0,
+      "fy": -3367.0
+    },
+    {
+      "id": "n119",
+      "label": "Alvaro Bellolio",
+      "group": "Person",
+      "fx": 3229.0,
+      "fy": -3282.0
+    },
+    {
+      "id": "n120",
+      "label": "Legión Patriota",
+      "group": "Gang",
+      "fx": 3547.0,
+      "fy": -4682.0
+    },
+    {
+      "id": "n121",
+      "label": "Kirk Andrew Hobbs",
+      "group": "Person",
+      "fx": 1945.0,
+      "fy": -5974.0
+    },
+    {
+      "id": "n122",
+      "label": "Romántica FM",
+      "group": "Company",
+      "fx": 447.0,
+      "fy": -3651.0
+    },
+    {
+      "id": "n123",
+      "label": "Mares @EsmeVeral",
+      "group": "OnlineGroup",
+      "fx": 2534.0,
+      "fy": -6109.0
+    },
+    {
+      "id": "n124",
+      "label": "Emiliano Fernández Palermo",
+      "group": "Person",
+      "fx": 3584.0,
+      "fy": -3913.0
+    },
+    {
+      "id": "n125",
+      "label": "Mane @Mane_Bot18",
+      "group": "OnlineGroup",
+      "fx": 2719.0,
+      "fy": -6074.0
+    },
+    {
+      "id": "n126",
+      "label": "Neuroc (@HailDissenter)",
+      "group": "OnlineGroup",
+      "fx": 2698.0,
+      "fy": -5146.0
+    },
+    {
+      "id": "n127",
+      "label": "Red Salud",
+      "group": "Company",
+      "fx": 2657.0,
+      "fy": -1455.0
+    },
+    {
+      "id": "n128",
+      "label": "La Mano Invisible",
+      "group": "OnlineGroup",
+      "fx": 3924.0,
+      "fy": -4046.0
+    },
+    {
+      "id": "n129",
+      "label": "Matte",
+      "group": "Gang",
+      "fx": 1820.0,
+      "fy": -2985.0
+    },
+    {
+      "id": "n130",
+      "label": "Joaquín Lavín",
+      "group": "Person",
+      "fx": 3043.0,
+      "fy": -3594.0
+    },
+    {
+      "id": "n131",
+      "label": "Rafio Infinita",
+      "group": "Company",
+      "fx": 487.0,
+      "fy": -3495.0
+    },
+    {
+      "id": "n132",
+      "label": "Consalud",
+      "group": "Company",
+      "fx": 2934.0,
+      "fy": -1529.0
+    },
+    {
+      "id": "n133",
+      "label": "Partido Republicano",
+      "group": "Company",
+      "fx": 2557.0,
+      "fy": -4221.0
+    },
+    {
+      "id": "n134",
+      "label": "@Memerluzo",
+      "group": "OnlineGroup",
+      "fx": 2425.0,
+      "fy": -5051.0
+    },
+    {
+      "id": "n135",
+      "label": "@FridaSiKahlo",
+      "group": "OnlineGroup",
+      "fx": 2354.0,
+      "fy": -6129.0
+    },
+    {
+      "id": "n136",
+      "label": "Jorge Quiroz",
+      "group": "Person",
+      "fx": 1998.0,
+      "fy": -4137.0
+    },
+    {
+      "id": "n137",
+      "label": "José Cristian Matamala Quezada",
+      "group": "Person",
+      "fx": 1457.0,
+      "fy": -5367.0
+    },
+    {
+      "id": "n138",
+      "label": "Hernan Larraín",
+      "group": "Person",
+      "fx": 3223.0,
+      "fy": -3635.0
+    },
+    {
+      "id": "n139",
+      "label": "Sin Filtros TV",
+      "group": "OnlineGroup",
+      "fx": 3714.0,
+      "fy": -3594.0
+    },
+    {
+      "id": "n140",
+      "label": "@JeannyHobbs",
+      "group": "OnlineGroup",
+      "fx": 2193.0,
+      "fy": -5962.0
+    },
+    {
+      "id": "n141",
+      "label": "Sergio de Castro",
+      "group": "Person",
+      "fx": 2629.0,
+      "fy": -2878.0
+    },
+    {
+      "id": "n142",
+      "label": "Radio Carolina",
+      "group": "Company",
+      "fx": 410.0,
+      "fy": -3339.0
+    },
+    {
+      "id": "n143",
+      "label": "Edwards",
+      "group": "Gang",
+      "fx": 2048.0,
+      "fy": -2676.0
+    },
+    {
+      "id": "n144",
+      "label": "Artool",
+      "group": "Company",
+      "fx": 1578.0,
+      "fy": -3788.0
+    },
+    {
+      "id": "n145",
+      "label": "Movimiento Gremial UC",
+      "group": "PoliticalMovement",
+      "fx": 2834.0,
+      "fy": -3355.0
+    },
+    {
+      "id": "n146",
+      "label": "D&S (Supermercados Lider)",
+      "group": "Industry",
+      "fx": 3289.0,
+      "fy": -2658.0
+    },
+    {
+      "id": "n147",
+      "label": "Gabriel Ruiz-Tagle",
+      "group": "Person",
+      "fx": 2231.0,
+      "fy": -2227.0
+    },
+    {
+      "id": "n148",
+      "label": "Fundación Nueva Mente",
+      "group": "Company",
+      "fx": 2904.0,
+      "fy": -4322.0
+    },
+    {
+      "id": "n149",
+      "label": "Instituto Res Pública",
+      "group": "Company",
+      "fx": 2748.0,
+      "fy": -4166.0
+    },
+    {
+      "id": "n150",
+      "label": "Población",
+      "group": "Person",
+      "fx": 2189.0,
+      "fy": -4261.0
+    },
+    {
+      "id": "n151",
+      "label": "El Mercurio",
+      "group": "Company",
+      "fx": 2030.0,
+      "fy": -3028.0
+    },
+    {
+      "id": "n152",
+      "label": "\"Fundación\" CEP",
+      "group": "Company",
+      "fx": 1383.0,
+      "fy": -3184.0
+    },
+    {
+      "id": "n153",
+      "label": "Campaña en Redes Sociales",
+      "group": "AttackPattern",
+      "fx": 2260.0,
+      "fy": -4895.0
+    },
+    {
+      "id": "n154",
+      "label": "Fundación Ciudadanos en Acción",
+      "group": "Company",
+      "fx": 1786.0,
+      "fy": -4251.0
+    },
+    {
+      "id": "n155",
+      "label": "Fiscal Urbano",
+      "group": "OnlineGroup",
+      "fx": 3269.0,
+      "fy": -3976.0
+    },
+    {
+      "id": "n156",
+      "label": "Esteban Gómez Contreras",
+      "group": "Person",
+      "fx": 1762.0,
+      "fy": -5548.0
+    },
+    {
+      "id": "n157",
+      "label": "Cato Institute",
+      "group": "Company",
+      "fx": 2296.0,
+      "fy": -3523.0
+    },
+    {
+      "id": "n158",
+      "label": "Luksic",
+      "group": "Gang",
+      "fx": 1112.0,
+      "fy": -3312.0
+    },
+    {
+      "id": "n159",
+      "label": "Fundación Libertad y Desarrollo",
+      "group": "Company",
+      "fx": 2500.0,
+      "fy": -3043.0
+    }
+  ],
+  "links": [
+    {
+      "source": "n61",
+      "target": "n3",
+      "label": ""
+    },
+    {
+      "source": "n21",
+      "target": "n68",
+      "label": "Dueños"
+    },
+    {
+      "source": "n107",
+      "target": "n3",
+      "label": ""
+    },
+    {
+      "source": "n61",
+      "target": "n50",
+      "label": ""
+    },
+    {
+      "source": "n81",
+      "target": "n82",
+      "label": "Ministro de Hacienda 85'-89'"
+    },
+    {
+      "source": "n81",
+      "target": "n12",
+      "label": "Financiamento"
+    },
+    {
+      "source": "n21",
+      "target": "n16",
+      "label": "Dueños"
+    },
+    {
+      "source": "n43",
+      "target": "n21",
+      "label": "Dueños"
+    },
+    {
+      "source": "n105",
+      "target": "n1",
+      "label": ""
+    },
+    {
+      "source": "n71",
+      "target": "n6",
+      "label": "inversiones"
+    },
+    {
+      "source": "n32",
+      "target": "n153",
+      "label": "Memes, discurso de odio, referente de otras personas en el círculo"
+    },
+    {
+      "source": "n138",
+      "target": "n29",
+      "label": ""
+    },
+    {
+      "source": "n105",
+      "target": "n2",
+      "label": ""
+    },
+    {
+      "source": "n107",
+      "target": "n19",
+      "label": ""
+    },
+    {
+      "source": "n5",
+      "target": "n12",
+      "label": "Director"
+    },
+    {
+      "source": "n34",
+      "target": "n48",
+      "label": "Medidas para los 90 primeros días de gobierno"
+    },
+    {
+      "source": "n69",
+      "target": "n153",
+      "label": ""
+    },
+    {
+      "source": "n64",
+      "target": "n7",
+      "label": "Crea y financia (1968)"
+    },
+    {
+      "source": "n54",
+      "target": "n12",
+      "label": "Financiamiento"
+    },
+    {
+      "source": "n59",
+      "target": "n18",
+      "label": "Movimiento ideológico"
+    },
+    {
+      "source": "n67",
+      "target": "n10",
+      "label": "Inicios"
+    },
+    {
+      "source": "n149",
+      "target": "n4",
+      "label": ""
+    },
+    {
+      "source": "n53",
+      "target": "n81",
+      "label": "Campaña presidencial 89'"
+    },
+    {
+      "source": "n158",
+      "target": "n104",
+      "label": ""
+    },
+    {
+      "source": "n114",
+      "target": "n34",
+      "label": "hermanos"
+    },
+    {
+      "source": "n37",
+      "target": "n102",
+      "label": ""
+    },
+    {
+      "source": "n98",
+      "target": "n100",
+      "label": "Dueño 25,21%"
+    },
+    {
+      "source": "n61",
+      "target": "n10",
+      "label": ""
+    },
+    {
+      "source": "n50",
+      "target": "n153",
+      "label": "Discursos de odio y desinformación"
+    },
+    {
+      "source": "n48",
+      "target": "n102",
+      "label": "Ex Miembro del directorio"
+    },
+    {
+      "source": "n92",
+      "target": "n39",
+      "label": "Hijo"
+    },
+    {
+      "source": "n3",
+      "target": "n59",
+      "label": "Estudiantes seleccionados"
+    },
+    {
+      "source": "n23",
+      "target": "n153",
+      "label": "Memes, difusión y ataques"
+    },
+    {
+      "source": "n107",
+      "target": "n139",
+      "label": ""
+    },
+    {
+      "source": "n94",
+      "target": "n52",
+      "label": "Dueño"
+    },
+    {
+      "source": "n118",
+      "target": "n53",
+      "label": "Mano derecha"
+    },
+    {
+      "source": "n37",
+      "target": "n13",
+      "label": "Asesora"
+    },
+    {
+      "source": "n152",
+      "target": "n105",
+      "label": "Ganancias de la \"fundación\""
+    },
+    {
+      "source": "n20",
+      "target": "n111",
+      "label": "Reside entre el extranjero y Chile"
+    },
+    {
+      "source": "n93",
+      "target": "n124",
+      "label": ""
+    },
+    {
+      "source": "n124",
+      "target": "n89",
+      "label": ""
+    },
+    {
+      "source": "n48",
+      "target": "n39",
+      "label": "Primo"
+    },
+    {
+      "source": "n15",
+      "target": "n3",
+      "label": "Profesor de derecho"
+    },
+    {
+      "source": "n98",
+      "target": "n6",
+      "label": "Dueño 62,6%"
+    },
+    {
+      "source": "n124",
+      "target": "n128",
+      "label": ""
+    },
+    {
+      "source": "n67",
+      "target": "n79",
+      "label": "Jefe de Comunicaciones (2011)"
+    },
+    {
+      "source": "n53",
+      "target": "n114",
+      "label": ""
+    },
+    {
+      "source": "n129",
+      "target": "n85",
+      "label": ""
+    },
+    {
+      "source": "n0",
+      "target": "n34",
+      "label": ""
+    },
+    {
+      "source": "n107",
+      "target": "n155",
+      "label": ""
+    },
+    {
+      "source": "n45",
+      "target": "n63",
+      "label": ""
+    },
+    {
+      "source": "n89",
+      "target": "n139",
+      "label": ""
+    },
+    {
+      "source": "n151",
+      "target": "n5",
+      "label": ""
+    },
+    {
+      "source": "n67",
+      "target": "n68",
+      "label": "Editor de prensa (previo a T13)"
+    },
+    {
+      "source": "n34",
+      "target": "n74",
+      "label": "Independientes-RN-Evópoli"
+    },
+    {
+      "source": "n148",
+      "target": "n155",
+      "label": ""
+    },
+    {
+      "source": "n60",
+      "target": "n13",
+      "label": ""
+    },
+    {
+      "source": "n59",
+      "target": "n77",
+      "label": "Forma"
+    },
+    {
+      "source": "n13",
+      "target": "n12",
+      "label": "Columnistas"
+    },
+    {
+      "source": "n124",
+      "target": "n139",
+      "label": ""
+    },
+    {
+      "source": "n72",
+      "target": "n127",
+      "label": ""
+    },
+    {
+      "source": "n141",
+      "target": "n82",
+      "label": "Ministro de Hacienda 75'-82'"
+    },
+    {
+      "source": "n13",
+      "target": "n93",
+      "label": "Entrenamiento para política"
+    },
+    {
+      "source": "n72",
+      "target": "n132",
+      "label": ""
+    },
+    {
+      "source": "n70",
+      "target": "n150",
+      "label": "Miedo, incertidumbre y rabia"
+    },
+    {
+      "source": "n91",
+      "target": "n148",
+      "label": "Fundadora"
+    },
+    {
+      "source": "n84",
+      "target": "n3",
+      "label": "Socióloga"
+    },
+    {
+      "source": "n76",
+      "target": "n86",
+      "label": "Dueños"
+    },
+    {
+      "source": "n93",
+      "target": "n37",
+      "label": "Seleccionado para promover las ideas en charlas internacionales"
+    },
+    {
+      "source": "n153",
+      "target": "n150",
+      "label": "Ideas de odio y emocionales, eslóganes y ridiculización del oponente"
+    },
+    {
+      "source": "n133",
+      "target": "n101",
+      "label": "94 Millones desde el Congreso por \"asesorías\" en 2024"
+    },
+    {
+      "source": "n37",
+      "target": "n101",
+      "label": ""
+    },
+    {
+      "source": "n73",
+      "target": "n71",
+      "label": "CREACIÓN DE LAS AFP - DECRETO LEY N° 3.500 (1980)"
+    },
+    {
+      "source": "n88",
+      "target": "n65",
+      "label": ""
+    },
+    {
+      "source": "n136",
+      "target": "n48",
+      "label": "Coordinador Económico"
+    },
+    {
+      "source": "n90",
+      "target": "n88",
+      "label": ""
+    },
+    {
+      "source": "n32",
+      "target": "n140",
+      "label": ""
+    },
+    {
+      "source": "n130",
+      "target": "n145",
+      "label": ""
+    },
+    {
+      "source": "n48",
+      "target": "n3",
+      "label": "Derecho"
+    },
+    {
+      "source": "n157",
+      "target": "n37",
+      "label": "Socio Premium"
+    },
+    {
+      "source": "n90",
+      "target": "n121",
+      "label": "Amiga de la pareja"
+    },
+    {
+      "source": "n73",
+      "target": "n82",
+      "label": "Ministro de Trabajo y Previsión Social 78'-80'"
+    },
+    {
+      "source": "n112",
+      "target": "n29",
+      "label": ""
+    },
+    {
+      "source": "n120",
+      "target": "n117",
+      "label": ""
+    },
+    {
+      "source": "n64",
+      "target": "n97",
+      "label": "Viaje a EEUU 09/1970"
+    },
+    {
+      "source": "n37",
+      "target": "n14",
+      "label": "Asesora"
+    },
+    {
+      "source": "n36",
+      "target": "n153",
+      "label": "Memes, difusión de desinformación"
+    },
+    {
+      "source": "n112",
+      "target": "n3",
+      "label": ""
+    },
+    {
+      "source": "n37",
+      "target": "n149",
+      "label": "Asesora"
+    },
+    {
+      "source": "n71",
+      "target": "n98",
+      "label": "Inversiones"
+    },
+    {
+      "source": "n48",
+      "target": "n150",
+      "label": "Supuesto \"Salvador\""
+    },
+    {
+      "source": "n90",
+      "target": "n20",
+      "label": "Amiga de la pareja"
+    },
+    {
+      "source": "n38",
+      "target": "n83",
+      "label": "Colusión"
+    },
+    {
+      "source": "n97",
+      "target": "n151",
+      "label": "US $2MM para DESINFORMACIÓN (1970)"
+    },
+    {
+      "source": "n67",
+      "target": "n71",
+      "label": "Gerente de comunicaciones de la AAFP"
+    },
+    {
+      "source": "n37",
+      "target": "n159",
+      "label": "Asesora"
+    },
+    {
+      "source": "n110",
+      "target": "n148",
+      "label": "Director"
+    },
+    {
+      "source": "n37",
+      "target": "n0",
+      "label": "Asesora"
+    },
+    {
+      "source": "n93",
+      "target": "n89",
+      "label": "Hermano"
+    },
+    {
+      "source": "n111",
+      "target": "n121",
+      "label": "Gringo nacionalizado"
+    },
+    {
+      "source": "n103",
+      "target": "n153",
+      "label": "Memes, difusión de desinformación"
+    },
+    {
+      "source": "n56",
+      "target": "n120",
+      "label": ""
+    },
+    {
+      "source": "n71",
+      "target": "n31",
+      "label": "Inversiones"
+    },
+    {
+      "source": "n134",
+      "target": "n153",
+      "label": "Creación de memes, difusión de odio y desinformación"
+    },
+    {
+      "source": "n48",
+      "target": "n133",
+      "label": "Creador (2019)"
+    },
+    {
+      "source": "n105",
+      "target": "n12",
+      "label": ""
+    },
+    {
+      "source": "n96",
+      "target": "n120",
+      "label": ""
+    },
+    {
+      "source": "n67",
+      "target": "n113",
+      "label": "Director"
+    },
+    {
+      "source": "n105",
+      "target": "n113",
+      "label": ""
+    },
+    {
+      "source": "n147",
+      "target": "n12",
+      "label": "Financia"
+    },
+    {
+      "source": "n43",
+      "target": "n152",
+      "label": ""
+    },
+    {
+      "source": "n135",
+      "target": "n65",
+      "label": ""
+    },
+    {
+      "source": "n130",
+      "target": "n29",
+      "label": ""
+    },
+    {
+      "source": "n158",
+      "target": "n98",
+      "label": "Dueños 83%"
+    },
+    {
+      "source": "n48",
+      "target": "n145",
+      "label": ""
+    },
+    {
+      "source": "n130",
+      "target": "n3",
+      "label": "Ingeniero Comercial"
+    },
+    {
+      "source": "n105",
+      "target": "n68",
+      "label": ""
+    },
+    {
+      "source": "n43",
+      "target": "n27",
+      "label": "Dueños"
+    },
+    {
+      "source": "n15",
+      "target": "n29",
+      "label": "Fundador"
+    },
+    {
+      "source": "n125",
+      "target": "n65",
+      "label": ""
+    },
+    {
+      "source": "n25",
+      "target": "n153",
+      "label": "Memes, difusión de desinformación y ataques"
+    },
+    {
+      "source": "n37",
+      "target": "n148",
+      "label": ""
+    },
+    {
+      "source": "n18",
+      "target": "n145",
+      "label": "Influencia"
+    },
+    {
+      "source": "n123",
+      "target": "n65",
+      "label": ""
+    },
+    {
+      "source": "n71",
+      "target": "n38",
+      "label": "Inversiones"
+    },
+    {
+      "source": "n123",
+      "target": "n140",
+      "label": "Amiga"
+    },
+    {
+      "source": "n71",
+      "target": "n30",
+      "label": "Inversiones"
+    },
+    {
+      "source": "n135",
+      "target": "n140",
+      "label": "Relación cercana"
+    },
+    {
+      "source": "n73",
+      "target": "n157",
+      "label": "Senior Distinguished Fellow"
+    },
+    {
+      "source": "n136",
+      "target": "n57",
+      "label": "Colusión Farmacias"
+    },
+    {
+      "source": "n46",
+      "target": "n13",
+      "label": "Fundador y financista"
+    },
+    {
+      "source": "n92",
+      "target": "n82",
+      "label": "Ministro de Trabajo 80'-82'"
+    },
+    {
+      "source": "n125",
+      "target": "n123",
+      "label": "Amiga"
+    },
+    {
+      "source": "n25",
+      "target": "n65",
+      "label": ""
+    },
+    {
+      "source": "n56",
+      "target": "n22",
+      "label": ""
+    },
+    {
+      "source": "n11",
+      "target": "n70",
+      "label": ""
+    },
+    {
+      "source": "n140",
+      "target": "n65",
+      "label": ""
+    },
+    {
+      "source": "n96",
+      "target": "n8",
+      "label": ""
+    },
+    {
+      "source": "n96",
+      "target": "n22",
+      "label": ""
+    },
+    {
+      "source": "n32",
+      "target": "n65",
+      "label": ""
+    },
+    {
+      "source": "n78",
+      "target": "n17",
+      "label": "Dueños"
+    },
+    {
+      "source": "n84",
+      "target": "n105",
+      "label": "Dirección y $$$"
+    },
+    {
+      "source": "n126",
+      "target": "n153",
+      "label": "Investigador de información para causar polémica, ataques personales"
+    },
+    {
+      "source": "n75",
+      "target": "n153",
+      "label": ""
+    },
+    {
+      "source": "n108",
+      "target": "n59",
+      "label": "Master of Arts 78'-80'"
+    },
+    {
+      "source": "n151",
+      "target": "n70",
+      "label": ""
+    },
+    {
+      "source": "n53",
+      "target": "n82",
+      "label": "Embajador en Argentina 84'-87'"
+    },
+    {
+      "source": "n71",
+      "target": "n17",
+      "label": ""
+    },
+    {
+      "source": "n71",
+      "target": "n100",
+      "label": "Inversiones"
+    },
+    {
+      "source": "n105",
+      "target": "n11",
+      "label": ""
+    },
+    {
+      "source": "n71",
+      "target": "n27",
+      "label": "Inversiones"
+    },
+    {
+      "source": "n109",
+      "target": "n87",
+      "label": ""
+    },
+    {
+      "source": "n48",
+      "target": "n29",
+      "label": "Militante 1996-2016"
+    },
+    {
+      "source": "n121",
+      "target": "n20",
+      "label": "Esposa"
+    },
+    {
+      "source": "n145",
+      "target": "n29",
+      "label": ""
+    },
+    {
+      "source": "n143",
+      "target": "n9",
+      "label": "Dueños"
+    },
+    {
+      "source": "n115",
+      "target": "n92",
+      "label": ""
+    },
+    {
+      "source": "n40",
+      "target": "n36",
+      "label": ""
+    },
+    {
+      "source": "n29",
+      "target": "n102",
+      "label": "70 Millones desde el Congreso por \"asesorías\" en 2024"
+    },
+    {
+      "source": "n20",
+      "target": "n140",
+      "label": ""
+    },
+    {
+      "source": "n141",
+      "target": "n3",
+      "label": "Decano Facultad Economía 65'-68'"
+    },
+    {
+      "source": "n40",
+      "target": "n103",
+      "label": ""
+    },
+    {
+      "source": "n47",
+      "target": "n153",
+      "label": "Gestión y coordinación"
+    },
+    {
+      "source": "n143",
+      "target": "n11",
+      "label": "Dueños"
+    },
+    {
+      "source": "n76",
+      "target": "n60",
+      "label": ""
+    },
+    {
+      "source": "n3",
+      "target": "n145",
+      "label": ""
+    },
+    {
+      "source": "n53",
+      "target": "n34",
+      "label": "Hijo"
+    },
+    {
+      "source": "n108",
+      "target": "n159",
+      "label": "Fundador 1990"
+    },
+    {
+      "source": "n67",
+      "target": "n47",
+      "label": ""
+    },
+    {
+      "source": "n115",
+      "target": "n71",
+      "label": "El Ladrillo"
+    },
+    {
+      "source": "n34",
+      "target": "n154",
+      "label": "Líder"
+    },
+    {
+      "source": "n24",
+      "target": "n48",
+      "label": "Vocera Comando José Antonio Kast"
+    },
+    {
+      "source": "n106",
+      "target": "n145",
+      "label": ""
+    },
+    {
+      "source": "n82",
+      "target": "n94",
+      "label": ""
+    },
+    {
+      "source": "n144",
+      "target": "n154",
+      "label": "Propaganda y publicidad a favor de las AFP en RRSS"
+    },
+    {
+      "source": "n89",
+      "target": "n62",
+      "label": ""
+    },
+    {
+      "source": "n130",
+      "target": "n102",
+      "label": "$37 Mill. desde Mun. de las Condes (2016-2017)"
+    },
+    {
+      "source": "n93",
+      "target": "n56",
+      "label": "Influencia ideológica"
+    },
+    {
+      "source": "n26",
+      "target": "n102",
+      "label": "$4.9 Millones de pesos siendo Vocero de Gobierno 2020"
+    },
+    {
+      "source": "n154",
+      "target": "n109",
+      "label": "Publicidad"
+    },
+    {
+      "source": "n106",
+      "target": "n3",
+      "label": "Derecho"
+    },
+    {
+      "source": "n55",
+      "target": "n137",
+      "label": ""
+    },
+    {
+      "source": "n136",
+      "target": "n58",
+      "label": "Colusión Pollos"
+    },
+    {
+      "source": "n108",
+      "target": "n145",
+      "label": ""
+    },
+    {
+      "source": "n113",
+      "target": "n70",
+      "label": ""
+    },
+    {
+      "source": "n106",
+      "target": "n29",
+      "label": ""
+    },
+    {
+      "source": "n56",
+      "target": "n96",
+      "label": ""
+    },
+    {
+      "source": "n35",
+      "target": "n75",
+      "label": "Conduce en X un programa tipo radial para compartir discursos de odio y planear propaganda"
+    },
+    {
+      "source": "n72",
+      "target": "n80",
+      "label": "Dueños"
+    },
+    {
+      "source": "n56",
+      "target": "n96",
+      "label": ""
+    },
+    {
+      "source": "n106",
+      "target": "n102",
+      "label": "Director"
+    },
+    {
+      "source": "n2",
+      "target": "n70",
+      "label": ""
+    },
+    {
+      "source": "n147",
+      "target": "n83",
+      "label": "Ex Dueño (colusión Confort)"
+    },
+    {
+      "source": "n115",
+      "target": "n73",
+      "label": ""
+    },
+    {
+      "source": "n54",
+      "target": "n72",
+      "label": "Presidente"
+    },
+    {
+      "source": "n78",
+      "target": "n57",
+      "label": ""
+    },
+    {
+      "source": "n1",
+      "target": "n70",
+      "label": ""
+    },
+    {
+      "source": "n49",
+      "target": "n153",
+      "label": ""
+    },
+    {
+      "source": "n76",
+      "target": "n100",
+      "label": "Ex dueños"
+    },
+    {
+      "source": "n0",
+      "target": "n39",
+      "label": "Entrenamiento para política"
+    },
+    {
+      "source": "n129",
+      "target": "n84",
+      "label": ""
+    },
+    {
+      "source": "n54",
+      "target": "n80",
+      "label": "Presidente hasta 2014"
+    },
+    {
+      "source": "n71",
+      "target": "n116",
+      "label": "Inversiones"
+    },
+    {
+      "source": "n71",
+      "target": "n33",
+      "label": "Inversiones"
+    },
+    {
+      "source": "n148",
+      "target": "n49",
+      "label": ""
+    },
+    {
+      "source": "n143",
+      "target": "n64",
+      "label": "Fallecido en 2017"
+    },
+    {
+      "source": "n15",
+      "target": "n71",
+      "label": "Constitución 1980"
+    },
+    {
+      "source": "n68",
+      "target": "n70",
+      "label": ""
+    },
+    {
+      "source": "n105",
+      "target": "n151",
+      "label": "Información a difundir"
+    },
+    {
+      "source": "n53",
+      "target": "n151",
+      "label": "Director 78'-82'"
+    },
+    {
+      "source": "n77",
+      "target": "n3",
+      "label": "Docentes"
+    },
+    {
+      "source": "n39",
+      "target": "n74",
+      "label": "Creador"
+    },
+    {
+      "source": "n8",
+      "target": "n153",
+      "label": "Reclutamiento en RRSS"
+    },
+    {
+      "source": "n21",
+      "target": "n142",
+      "label": ""
+    },
+    {
+      "source": "n37",
+      "target": "n105",
+      "label": "Asesora"
+    },
+    {
+      "source": "n21",
+      "target": "n131",
+      "label": ""
+    },
+    {
+      "source": "n106",
+      "target": "n59",
+      "label": ""
+    },
+    {
+      "source": "n21",
+      "target": "n122",
+      "label": ""
+    },
+    {
+      "source": "n77",
+      "target": "n7",
+      "label": "Investigadores"
+    },
+    {
+      "source": "n26",
+      "target": "n59",
+      "label": ""
+    },
+    {
+      "source": "n28",
+      "target": "n74",
+      "label": "Comando Felipe Kast 2017"
+    },
+    {
+      "source": "n118",
+      "target": "n105",
+      "label": "Fundador 1980"
+    },
+    {
+      "source": "n95",
+      "target": "n81",
+      "label": "Director"
+    },
+    {
+      "source": "n21",
+      "target": "n44",
+      "label": ""
+    },
+    {
+      "source": "n63",
+      "target": "n2",
+      "label": "Dueños"
+    },
+    {
+      "source": "n119",
+      "target": "n59",
+      "label": ""
+    },
+    {
+      "source": "n138",
+      "target": "n102",
+      "label": "Presidente"
+    },
+    {
+      "source": "n66",
+      "target": "n152",
+      "label": ""
+    },
+    {
+      "source": "n61",
+      "target": "n4",
+      "label": ""
+    },
+    {
+      "source": "n109",
+      "target": "n153",
+      "label": ""
+    },
+    {
+      "source": "n64",
+      "target": "n77",
+      "label": "Recluta"
+    },
+    {
+      "source": "n98",
+      "target": "n99",
+      "label": "Dueño 65,9%"
+    },
+    {
+      "source": "n78",
+      "target": "n152",
+      "label": ""
+    },
+    {
+      "source": "n24",
+      "target": "n61",
+      "label": "Compañeros"
+    },
+    {
+      "source": "n63",
+      "target": "n1",
+      "label": "Dueños"
+    },
+    {
+      "source": "n3",
+      "target": "n108",
+      "label": "Ingeniero Comercial (FEUC 74'-75')"
+    },
+    {
+      "source": "n66",
+      "target": "n33",
+      "label": "Dueños"
+    },
+    {
+      "source": "n26",
+      "target": "n29",
+      "label": ""
+    },
+    {
+      "source": "n28",
+      "target": "n144",
+      "label": "Dueño"
+    },
+    {
+      "source": "n98",
+      "target": "n95",
+      "label": "Dueño 51,2%"
+    },
+    {
+      "source": "n66",
+      "target": "n116",
+      "label": "Dueños"
+    },
+    {
+      "source": "n101",
+      "target": "n48",
+      "label": "Redacción Programa de Gobierno Kast 2021"
+    },
+    {
+      "source": "n27",
+      "target": "n81",
+      "label": "Director hasta 2022"
+    },
+    {
+      "source": "n105",
+      "target": "n13",
+      "label": "Estudios sobre la población"
+    },
+    {
+      "source": "n76",
+      "target": "n152",
+      "label": ""
+    },
+    {
+      "source": "n104",
+      "target": "n113",
+      "label": "Dueño"
+    },
+    {
+      "source": "n81",
+      "target": "n159",
+      "label": "Fundador 1990"
+    },
+    {
+      "source": "n71",
+      "target": "n144",
+      "label": "Dinero de las AFP"
+    },
+    {
+      "source": "n129",
+      "target": "n38",
+      "label": "Dueños"
+    },
+    {
+      "source": "n22",
+      "target": "n117",
+      "label": ""
+    },
+    {
+      "source": "n138",
+      "target": "n3",
+      "label": ""
+    },
+    {
+      "source": "n24",
+      "target": "n10",
+      "label": ""
+    },
+    {
+      "source": "n137",
+      "target": "n35",
+      "label": ""
+    },
+    {
+      "source": "n51",
+      "target": "n126",
+      "label": ""
+    },
+    {
+      "source": "n7",
+      "target": "n115",
+      "label": "Conforma"
+    },
+    {
+      "source": "n24",
+      "target": "n13",
+      "label": "Directora de Asuntos Públicos (hasta 09/25)"
+    },
+    {
+      "source": "n85",
+      "target": "n105",
+      "label": "$$$$"
+    },
+    {
+      "source": "n26",
+      "target": "n3",
+      "label": ""
+    },
+    {
+      "source": "n67",
+      "target": "n28",
+      "label": "Trato entre AAFP y Artool desde 2018"
+    },
+    {
+      "source": "n52",
+      "target": "n81",
+      "label": "Director hasta 2016 (Caso SQM)"
+    },
+    {
+      "source": "n158",
+      "target": "n152",
+      "label": ""
+    },
+    {
+      "source": "n35",
+      "target": "n153",
+      "label": "Videos con IA, memes, masificacióin del odio"
+    },
+    {
+      "source": "n71",
+      "target": "n95",
+      "label": "Inversiones"
+    },
+    {
+      "source": "n115",
+      "target": "n141",
+      "label": ""
+    },
+    {
+      "source": "n46",
+      "target": "n146",
+      "label": "Ex Dueño"
+    },
+    {
+      "source": "n61",
+      "target": "n149",
+      "label": "Director Ejecutivo"
+    },
+    {
+      "source": "n129",
+      "target": "n152",
+      "label": ""
+    },
+    {
+      "source": "n129",
+      "target": "n30",
+      "label": "Dueños"
+    },
+    {
+      "source": "n143",
+      "target": "n95",
+      "label": "Ex dueños"
+    },
+    {
+      "source": "n92",
+      "target": "n145",
+      "label": ""
+    },
+    {
+      "source": "n118",
+      "target": "n3",
+      "label": "Director del Instituto de Economía 70'-72'"
+    },
+    {
+      "source": "n114",
+      "target": "n105",
+      "label": "Director actual"
+    },
+    {
+      "source": "n121",
+      "target": "n32",
+      "label": ""
+    },
+    {
+      "source": "n119",
+      "target": "n3",
+      "label": "Ing Civil Industrial"
+    },
+    {
+      "source": "n156",
+      "target": "n23",
+      "label": ""
+    },
+    {
+      "source": "n15",
+      "target": "n145",
+      "label": ""
+    },
+    {
+      "source": "n129",
+      "target": "n31",
+      "label": "Dueños"
+    },
+    {
+      "source": "n119",
+      "target": "n29",
+      "label": ""
+    },
+    {
+      "source": "n21",
+      "target": "n41",
+      "label": ""
+    },
+    {
+      "source": "n8",
+      "target": "n117",
+      "label": "Hostigamiento en marchas, destrucción de arte"
+    },
+    {
+      "source": "n71",
+      "target": "n99",
+      "label": "Inversiones"
+    },
+    {
+      "source": "n143",
+      "target": "n151",
+      "label": "Dueños"
+    },
+    {
+      "source": "n118",
+      "target": "n82",
+      "label": "Ministro de Hacienda 74'-76'"
+    }
+  ]
+}
