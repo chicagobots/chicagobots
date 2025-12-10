@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chicagobots/static/css/main.e6c13ad2.css",
+    "main.js": "/chicagobots/static/js/main.6ecc6f9c.js",
+    "static/js/453.5a86ea89.chunk.js": "/chicagobots/static/js/453.5a86ea89.chunk.js",
+    "index.html": "/chicagobots/index.html",
+    "main.e6c13ad2.css.map": "/chicagobots/static/css/main.e6c13ad2.css.map",
+    "main.6ecc6f9c.js.map": "/chicagobots/static/js/main.6ecc6f9c.js.map",
+    "453.5a86ea89.chunk.js.map": "/chicagobots/static/js/453.5a86ea89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6ecc6f9c.js"
+  ]
+}
