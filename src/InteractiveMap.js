@@ -2,11 +2,9 @@ import React, { useState, useRef, useMemo, useEffect } from 'react';
 import CytoscapeComponent from 'react-cytoscapejs';
 import { useNavigate } from 'react-router-dom';
 import {
-  Settings, Sun, Moon, Terminal, Heart, Flag,
-  Eye, EyeOff, MousePointerClick, Search, Github,
-  Map, Activity, ChevronDown, ChevronUp,
+  Settings, Activity, Map, ChevronDown, ChevronUp,
   ChevronLeft, ChevronRight, Lock, Unlock,
-  ArrowRightCircle, ArrowLeftCircle
+  ArrowRightCircle, ArrowLeftCircle, Search, MousePointerClick
 } from 'lucide-react';
 import graphData from './data.json';
 
@@ -83,15 +81,6 @@ const THEMES = {
   }
 };
 
-const debounce = (func, wait) => {
-  let timeout;
-  return function (...args) {
-    const context = this;
-    clearTimeout(timeout);
-    timeout = setTimeout(() => func.apply(context, args), wait);
-  };
-};
-
 const GlobalStyles = ({ theme }) => (
   <style>{`
     @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Playfair+Display:wght@400;700&family=Roboto:wght@400;500&display=swap');
@@ -111,14 +100,12 @@ const GlobalStyles = ({ theme }) => (
     ::-webkit-scrollbar { width: 6px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: ${theme.accent}; border-radius: 3px; }
-  `}</style>
-);
+  `}</style>);
 
 export default function InteractiveMap() {
   const [currentTheme, setCurrentTheme] = useState('normal');
   const [selectedNode, setSelectedNode] = useState(null);
   const [nodeConnections, setNodeConnections] = useState({ incoming: [], outgoing: [] });
-  const [zoomLevel, setZoomLevel] = useState(1);
   const [isStyleOpen, setIsStyleOpen] = useState(false);
   const [isPanelCollapsed, setIsPanelCollapsed] = useState(false);
   const [isUnlocked, setIsUnlocked] = useState(false);
@@ -149,12 +136,6 @@ export default function InteractiveMap() {
       cy.nodes().lock(); cy.panningEnabled(true); cy.userPanningEnabled(true);
     }
   }, [isUnlocked]);
-
-  const getAdaptiveFontSize = (zoom) => {
-    const baseSize = 14;
-    const scale = 1 / zoom;
-    return Math.min(Math.max(baseSize, baseSize * scale * 0.9), 30);
-  };
 
   const getNodeIcon = (nodeData) => {
     const publicUrl = process.env.PUBLIC_URL;
@@ -204,57 +185,6 @@ export default function InteractiveMap() {
           'z-index': 10
         }
       },
-      { selector: '.faded', style: { 'opacity': 0.1, 'text-opacity': 0, 'z-index': 0 } },
-
-      {
-        selector: '.highlighted',
-        style: {
-          'width': 70,
-          'height': 70,
-          'border-width': 6,
-          'border-color': theme.accent,
-          'z-index': 9998,
-          'opacity': 1,
-          'text-opacity': 1,
-          'font-weight': 'bold',
-          'font-size': 16
-        }
-      },
-      {
-        selector: '.main-highlight',
-        style: {
-          'width': 100,
-          'height': 100,
-          'border-width': 10,
-          'border-color': theme.accent,
-          'z-index': 9999,
-          'opacity': 1,
-          'text-opacity': 1,
-          'font-weight': 'bold',
-          'font-size': 20
-        }
-      },
-      {
-        selector: 'edge.highlighted',
-        style: {
-          'width': 14,
-          'line-color': theme.accent,
-          'target-arrow-color': theme.accent,
-          'arrow-scale': 3,
-          'opacity': 1,
-          'z-index': 9998,
-          'label': 'data(label)',
-          'text-rotation': 'autorotate',
-          'text-margin-y': -12,
-          'color': theme.accent,
-          'font-weight': 'bold',
-          'font-size': 14,
-          'text-background-color': theme.bg,
-          'text-background-opacity': 0.9,
-          'text-background-padding': '4px',
-          'text-background-shape': 'roundrectangle'
-        }
-      },
       {
         selector: 'edge',
         style: {
@@ -269,6 +199,50 @@ export default function InteractiveMap() {
           'font-size': 10,
           'text-opacity': 0.6,
           'color': theme.textColor,
+          'text-background-opacity': 0
+        }
+      },
+      {
+        selector: '.faded',
+        style: {
+          'opacity': 0.25,
+          'text-opacity': 0.2,
+          'z-index': 0
+        }
+      },
+      {
+        selector: '.highlighted',
+        style: {
+          'width': 70, 'height': 70, 'border-width': 6, 'border-color': theme.accent,
+          'z-index': 9998, 'opacity': 1, 'text-opacity': 1, 'font-weight': 'bold', 'font-size': 16
+        }
+      },
+      {
+        selector: '.main-highlight',
+        style: {
+          'width': 100, 'height': 100, 'border-width': 10, 'border-color': theme.accent,
+          'z-index': 9999, 'opacity': 1, 'text-opacity': 1, 'font-weight': 'bold', 'font-size': 20
+        }
+      },
+      {
+        selector: 'edge.highlighted',
+        style: {
+          'width': 10,
+          'line-color': '#ff0000',
+          'target-arrow-color': '#ff0000',
+          'source-arrow-color': '#ff0000',
+          'arrow-scale': 2,
+          'opacity': 1,
+          'text-opacity': 1,
+          'z-index': 9999,
+          'label': 'data(label)',
+          'text-rotation': 'autorotate',
+          'text-margin-y': -20,
+          'color': '#ffffff',
+          'text-outline-color': '#000000',
+          'text-outline-width': 4,
+          'font-weight': '900',
+          'font-size': 24,
           'text-background-opacity': 0
         }
       },
@@ -305,6 +279,27 @@ export default function InteractiveMap() {
     });
   };
 
+  const handleSelectEdge = (edge) => {
+    const cy = cyRef.current;
+    if (!cy) return;
+
+    if (edge.hasClass('highlighted') && !selectedNode) {
+      clearSelection();
+      return;
+    }
+
+    setSelectedNode(null);
+    setNodeConnections({ incoming: [], outgoing: [] });
+
+    cy.batch(() => {
+      cy.elements().removeClass('highlighted faded main-highlight');
+      cy.elements().addClass('faded');
+      edge.removeClass('faded').addClass('highlighted');
+      edge.source().removeClass('faded').addClass('highlighted');
+      edge.target().removeClass('faded').addClass('highlighted');
+    });
+  };
+
   const clearSelection = () => {
     const cy = cyRef.current;
     if (!cy) return;
@@ -317,7 +312,14 @@ export default function InteractiveMap() {
 
   const panelStyles = isMobile
     ? { width: '100vw', height: isPanelCollapsed ? '60px' : '50vh', bottom: 0, left: 0, borderTop: `1px solid ${theme.labelBorder}`, borderRight: 'none', flexDirection: 'column' }
-    : { width: isPanelCollapsed ? '60px' : '320px', height: '100vh', top: 0, left: 0, borderRight: `1px solid ${theme.labelBorder}`, borderTop: 'none', flexDirection: 'column' };
+    : {
+      width: isPanelCollapsed ? '60px' : '320px',
+      minWidth: isPanelCollapsed ? '60px' : '320px',
+      flexShrink: 0,
+      height: '100vh', top: 0, left: 0,
+      borderRight: `1px solid ${theme.labelBorder}`,
+      borderTop: 'none', flexDirection: 'column'
+    };
 
   return (
     <>
@@ -343,15 +345,19 @@ export default function InteractiveMap() {
                 <div className="view-mode-btn" style={{ background: theme.panelBg, color: theme.accent, boxShadow: '0 2px 5px rgba(0,0,0,0.1)' }}><Activity size={16} /> Interactivo</div>
                 <div className="view-mode-btn" style={{ cursor: 'pointer', opacity: 0.6 }} onClick={() => navigate('/static-view')}><Map size={16} /> Imagen Fija</div>
               </div>
+
               <button onClick={() => setIsStyleOpen(!isStyleOpen)} style={{ width: '100%', padding: '15px', background: 'transparent', border: `1px solid ${theme.labelBorder}`, borderRadius: '8px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', color: theme.textColor, marginBottom: '10px', cursor: 'pointer' }}>
                 <span style={{ display: 'flex', gap: 10, alignItems: 'center' }}><Settings size={18} /> ESTILO VISUAL</span>
                 {isStyleOpen ? <ChevronUp size={18} /> : <ChevronDown size={18} />}
               </button>
+
               {isStyleOpen && (
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '5px', marginBottom: '15px' }}>
-                  {['normal', 'coquette', 'dark', 'hacker', 'patriota'].map(t => (
-                    <button key={t} className={`theme-btn ${currentTheme === t ? 'active' : ''}`} onClick={() => setCurrentTheme(t)} style={{ justifyContent: 'center', margin: 0 }}>{t.toUpperCase()}</button>
-                  ))}
+                <div style={{ marginBottom: '15px' }}>
+                  <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '5px', marginBottom: '10px' }}>
+                    {['normal', 'coquette', 'dark', 'hacker', 'patriota'].map(t => (
+                      <button key={t} className={`theme-btn ${currentTheme === t ? 'active' : ''}`} onClick={() => setCurrentTheme(t)} style={{ justifyContent: 'center', margin: 0 }}>{t.toUpperCase()}</button>
+                    ))}
+                  </div>
                 </div>
               )}
             </div>
@@ -360,7 +366,6 @@ export default function InteractiveMap() {
               {selectedNode ? (
                 <div style={{ animation: 'fadeIn 0.3s' }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '15px', marginBottom: '20px' }}>
-                    { }
                     <div style={{ width: 60, height: 60, borderRadius: '50%', background: theme.colors.default, border: `3px solid ${theme.accent}`, display: 'flex', alignItems: 'center', justifyContent: 'center', overflow: 'hidden' }}>
                       {getNodeIcon(selectedNode) && <img src={getNodeIcon(selectedNode)} alt="" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />}
                     </div>
@@ -370,7 +375,6 @@ export default function InteractiveMap() {
                     </div>
                   </div>
 
-                  { }
                   <div style={{ marginTop: '20px' }}>
                     {nodeConnections.incoming.length > 0 && (
                       <div style={{ marginBottom: '20px' }}>
@@ -385,7 +389,6 @@ export default function InteractiveMap() {
                                 const targetNode = cyRef.current.$id(conn.sourceNode.id);
                                 if (targetNode.length) handleSelectNode(targetNode);
                               }}>
-                                { }
                                 <div style={{ width: 32, height: 32, borderRadius: '50%', overflow: 'hidden', background: theme.colors.default, border: `1px solid ${theme.labelBorder}`, flexShrink: 0 }}>
                                   {iconSrc && <img src={iconSrc} alt="" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />}
                                 </div>
@@ -413,7 +416,6 @@ export default function InteractiveMap() {
                                 const targetNode = cyRef.current.$id(conn.targetNode.id);
                                 if (targetNode.length) handleSelectNode(targetNode);
                               }}>
-                                { }
                                 <div style={{ width: 32, height: 32, borderRadius: '50%', overflow: 'hidden', background: theme.colors.default, border: `1px solid ${theme.labelBorder}`, flexShrink: 0 }}>
                                   {iconSrc && <img src={iconSrc} alt="" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />}
                                 </div>
@@ -463,6 +465,7 @@ export default function InteractiveMap() {
               }
               cy.off('tap');
               cy.on('tap', 'node', (evt) => handleSelectNode(evt.target));
+              cy.on('tap', 'edge', (evt) => handleSelectEdge(evt.target));
               cy.on('tap', (evt) => { if (evt.target === cy) clearSelection(); });
             }}
           />
